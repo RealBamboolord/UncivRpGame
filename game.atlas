@@ -1,0 +1,13 @@
+
+game.png
+size: 256, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Macron 1st
+  rotate: false
+  xy: 4, 4
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
