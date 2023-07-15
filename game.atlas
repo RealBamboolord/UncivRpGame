@@ -1,13 +1,27 @@
 
 game.png
-size: 256, 256
+size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+LeaderIcons/King Canute
+  rotate: false
+  xy: 4, 170
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 LeaderIcons/Macron 1st
   rotate: false
   xy: 4, 4
   size: 158, 158
   orig: 158, 158
+  offset: 0, 0
+  index: -1
+NationIcons/Inca
+  rotate: false
+  xy: 268, 326
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
