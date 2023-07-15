@@ -150,7 +150,7 @@
     },
 	{
 		"name": "Japan",
-		"leaderName": "Oda Nobunaga",
+		"leaderName": "Nikolai",
 		"adjective": ["Japanese"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
