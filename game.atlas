@@ -1,12 +1,19 @@
 
 game.png
-size: 512, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/King Canute
+LeaderIcons/Inca Arepa
   rotate: false
   xy: 4, 170
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+LeaderIcons/King Canute
+  rotate: false
+  xy: 780, 374
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -20,8 +27,8 @@ LeaderIcons/Macron 1st
   index: -1
 NationIcons/Inca
   rotate: false
-  xy: 268, 326
-  size: 100, 100
-  orig: 100, 100
+  xy: 780, 638
+  size: 300, 300
+  orig: 300, 300
   offset: 0, 0
   index: -1
