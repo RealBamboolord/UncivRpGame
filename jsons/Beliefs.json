@@ -413,6 +413,6 @@
     {
         "name": "Shake the Walls",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [Siege] units> <when attacking"]
+        "uniques": ["[+20]% Strength <for [Siege] units> <when attacking>"]
     },
 ]
