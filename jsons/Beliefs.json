@@ -333,7 +333,7 @@
     {
         "name": "Divine Dynasties",
         "type": "Enhancer",
-        "uniques": ["[+50]% Golden Age length",]
+        "uniques": ["[+50]% Golden Age length"]
     },
     {
         "name": "Divine Covenant",
@@ -348,7 +348,7 @@
     {
         "name": "Golden Future",
         "type": "Enhancer",
-        "uniques": ["[-10]% Culture cost of adopting new Policies",]
+        "uniques": ["[-10]% Culture cost of adopting new Policies"]
     },
     {
         "name": "Holy Order",
