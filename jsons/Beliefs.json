@@ -204,7 +204,7 @@
     {
         "name": "Holy Arms",
         "type": "Follower",
-        "uniques": ["[1] Unit Supply per [3] population [in cities following this religion]"]
+        "uniques": ["[1] Unit Supply per [3] population [in this city]"]
     },
     {
         "name": "Holy Warriors",
