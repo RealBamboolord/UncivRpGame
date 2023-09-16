@@ -25,6 +25,13 @@ LeaderIcons/Macron 1st
   orig: 158, 158
   offset: 0, 0
   index: -1
+NationIcons/Ethiopia
+  rotate: false
+  xy: 1088, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Inca
   rotate: false
   xy: 780, 638
@@ -32,9 +39,9 @@ NationIcons/Inca
   orig: 300, 300
   offset: 0, 0
   index: -1
-ReligionIcons/Pachamama
+NationIcons/Russia
   rotate: false
-  xy: 1088, 838
+  xy: 780, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
