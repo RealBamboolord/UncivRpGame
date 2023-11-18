@@ -250,10 +250,10 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "[+2 happiness] [in capital]",
-                    "[+2 happiness] [in holy cities]",
-                    "[+1 happiness] [in capital] <after enhancing a religion>",
-                    "[+1 happiness] [in holy cities] <after enhancing a religion>"
+                    "[+2 Happiness] [in capital]",
+                    "[+2 Happiness] [in holy cities]",
+                    "[+1 Happiness] [in capital] <after enhancing a religion>",
+                    "[+1 Happiness] [in holy cities] <after enhancing a religion>"
                 ],
                 "row": 1,
                 "column": 5
