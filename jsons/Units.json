@@ -29,4 +29,72 @@
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Siege",
+		"uniqueTo": "Rome",
+		"movement": 2,
+		"strength": 10,
+		"cost": 105,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": [
+			"Will not be displayed in Civilopedia","[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <vs [Melee] units>",
+		"[-1] Sight", "Can only attack [City] units"],
+        "civilopediaText": [
+			{"text": "A battering Ram, what else would you expect. Not as crudely crafted as the hunnic one, so this one requires a lot more production effort to produce."}
+		]
+		"attackSound": "throw"
+	},
+	{
+		"name": "Giant Niiponi",
+		"uniqueTo": "Japan",
+		"unitType": "Sword",
+		"movement": 1,
+		"strength": 18,
+		"cost": 120,
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["No defensive terrain bonus","No defensive terrain penalty","[+100]% maintenance costs","[+2] Sight","[-5] HP when healing","[-10] HP when healing <in [Friendly Land] tiles>","[-100]% XP gained from combat","[+15]% Strength bonus for [{Sword}] units within [1] tiles","Unable to capture cities","Destroys tile improvements when attacking","Great Person - [War]","Unbuildable","Cannot be purchased"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"upgradesTo": "Ranger",
+		"obsoleteTech": "Education",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Ranger",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 9,
+		"cost": 75,
+		"upgradesTo": "Explorer",
+		"requiredTech": "Horseback Riding",
+		"obsoleteTech": "Education",
+		"uniques": ["Never appears as a Barbarian unit","Can move after attacking"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Explorer",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","Founds a new city <on foreign continents>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+
 ]

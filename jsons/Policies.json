@@ -232,9 +232,9 @@
             "Scientific": 0
         },
         "uniques": [
-		"[+100]% Production when constructing [Faith] buildings [in all cities]",
-		"[+1 Culture] from every [Shrine]",
-    "[+1 Culture] from every [Temple]"
+		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
+		"[+100]% Production when constructing [Temple] buildings [in all cities]",
+		"[+100]% Production when constructing [Grand Temple] wonders [in all cities]"
         ],
         "policies": [
             {
@@ -250,10 +250,6 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "[+2 Happiness] [in capital]",
-                    "[+2 Happiness] [in holy cities]",
-                    "[+1 Happiness] [in capital] <after enhancing a religion>",
-                    "[+1 Happiness] [in holy cities] <after enhancing a religion>"
                 ],
                 "row": 1,
                 "column": 5
@@ -566,6 +562,83 @@
                 "name": "Exploration Complete",
                 "uniques": [
                     "[+3 Science, +3 Culture] [in all coastal cities]"
+                ]
+            }
+                ]
+	},
+    {
+        "name": "Noblesse",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 20,
+            "Diplomatic": 10,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "City-State territory always counts as friendly territory",
+            "[+1 Gold, +1 Production, +1 Food] from each Trade Route"
+        ],
+        "policies": [
+            {
+                "name": "Divine Rule",
+                "uniques": [
+                    "[+3 Faith, +3 Happiness] [in capital]","[+1 Culture] from every specialist [in all non-occupied cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Feudalism",
+                "uniques": [
+                    "[+20]% [Culture] from every [Castle]",
+                    "[+10]% [Food] from every [Castle]",
+                    "[+50]% Production when constructing [Castle] buildings [in all cities]",
+		    "[+50]% [Food] from City-States"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Knightly Order",
+                "uniques": [
+                    "City-State Influence recovers at twice the normal rate",
+		    "[-33]% unhappiness from the number of cities",
+		    "[Knight] units gain the [Knightly Order] promotion",
+		    "[Longswordsman] units gain the [Knightly Order] promotion",
+		    "[Knight] units gain the [Devout] promotion",
+		    "[Longswordsman] units gain the [Medic] promotion"
+		    //"[+20]% Production towards any buildings that already exist in the Capital"
+                ],
+                "requires": ["Feudalism"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Diplomatic Marriage",
+                "uniques": [
+                    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+                    "[-25]% City-State Influence degradation"
+                ],
+                "requires": ["Divine Rule","Knightly Order"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Imperialism",
+                "uniques": [
+                    "[+20]% Strength <for [Land] units> <on foreign continents>",
+                    "[+3 Gold] from every [National Wonder]"
+                ],
+                "requires": ["Knightly Order"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Noblesse Complete",
+                "uniques": [
+                     "[+10]% [Culture] [in all cities] <before the [Modern era]>", "[-10]% Unhappiness from [Population] [in all cities] <before the [Modern era]>", "[+10]% growth [in all cities]"
                 ]
             }
                 ]

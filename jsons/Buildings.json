@@ -20,4 +20,189 @@
 			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
+	{
+		"name": "Seehaus",
+		"replaces": "Lighthouse",
+		"uniqueTo": "Germany",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Will not be displayed in Civilopedia","Doesn't need adjacency to coast", "Required Tech Sailing vs Optics", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food, +1 Culture] from [Lakes] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Quipu Library",
+		"replaces": "Library",
+		"uniqueTo": "Inca",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Science] per [2] population [in this city]","[+1 Culture] [in this city]<in cities with at least [4] [Population]>","[+1 Culture] [in this city] <in cities with at least [7] [Population]>","[+1 Culture] [in this city] <in cities with at least [10] [Population]>","Messengers sent to or from this city are immune to message interception","Free [Archer] appears","Unsellable"],
+		"requiredTech": "Writing",
+		"civilopediaText": [
+			{"text": "One of the most unique writting sistems, if you could call it that. The Quipus transmit information via a code of knots in some strings, and this sistem would be kept secret, making critical information difficult for enemies to decifer."}
+		]
+
+	},
+	{
+		"name": "Charity Center",
+		"replaces": "Colosseum",
+		"uniqueTo": "Russia",
+		"cost": 100,
+		"maintenance": 1,
+		"happiness": 2,
+		"faith": 1,
+		"uniques": ["Will not be displayed in Civilopedia","Required Tech Calendar vs Construction","[+1 Production] [in this city] <after discovering [Philosophy]>"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Sailors of Pride",
+		"uniqueTo": "Spain",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["Will not be displayed in Civilopedia","Enables embarkation for land units <after discovering [Sailing]>","Enables [Trireme] units to enter ocean tiles <after discovering [Optics]>","Enables [Settler] units to enter ocean tiles <after discovering [Optics]>","[+1] Movement <for [Settler] units>"],
+	},
+	{
+		"name": "Path of Incandalo",
+		"uniqueTo": "England",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["Will not be displayed in Civilopedia","[Scout] units gain the [Scouting II] promotion","[Civilian] units gain the [Ignore terrain cost] promotion"],
+	},
+	{
+		"name": "Indian Fortification",
+		"uniqueTo": "India",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Culture, +1 Production] from every [Fort]","[+1 Gold, +1 Production] from every [Walls]","[+2 Gold, +2 Production] from every [Great Wall]","[+2 Culture] from every [Castle]","[+1 Gold, +1 Culture] from every [Fort] <after discovering [Flight]>",],
+	},
+	{
+		"name": "Underground Workforce",
+		"uniqueTo": "France",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Culture] from every [Mine]","[+1 Culture] from every [Mine] <starting from the [Medieval era]>","[+1 Culture] from every [Mine] <starting from the [Industrial era]>"],
+	},
+//AI
+	{
+		"name": "Wisp Summoning",
+		"uniqueTo": "Babylon",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["[5] free random researchable Tech(s) from the [Ancient era]"],
+	},
+	{
+		"name": "Wisp Summoning 2",
+		"uniqueTo": "Babylon",
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["[2] free random researchable Tech(s) from the [Classical era]", "Only available <in cities with a [Wisp Summoning]>"],
+	},
+	{
+		"name": "Deploy the Colossus",
+		"uniqueTo": "Japan",
+		"cost": 1,
+		"culture": 3,
+		"isWonder": true,
+		"uniques": ["Automatically built in all cities where it is buildable","Only available <in cities with a [Palace]>","Free [Giant Niiponi] appears"],
+	},
+//Classification Bonuses
+
+	{
+		"name": "Traditional Kingdom",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+15]% Production when constructing [Culture] wonders [in capital]",
+			"[3] units cost no maintenance",
+			"[+1 Culture] from every [Walls]",
+			"[+1 Gold, +1 Culture] from each Trade Route"
+			"Only available <for [Traditional Kingdom]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Isolationist",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+10]% [Science] [in capital]",
+			"[+10]% [Culture] [in all cities]",
+			"Gain Access to Research Funding instead of Research Agreements","Science gained from research agreements [-100]%",
+			"Only available <for [Isolationist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Free Traders",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Retain [+40]% of the happiness from a luxury after the last copy has been traded away", //For all merchant states, equates to 2 happiness vs 5
+			"[+10]% [Gold] [in all cities]",
+			"[Gold] cost of purchasing [Melee] units [-15]%","[Culture] cost of purchasing [Melee] units [-15]%","[Faith] cost of purchasing [Melee] units [-15]%",
+			"Only available <for [Free Traders]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	//peaceful ones
+	{
+		"name": "Peaceful - Scientific",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Science gained from research agreements [+25]%", //peaceful interaction bonus
+			"Production to [Science] conversion in cities changed by [+25]%",
+			"[+1 Science, +1 Happiness] from every [Embassy]", //Embassy bonus
+			"[+25]% of excess happiness converted to [Science]", //Peaceful bonus happiness
+			"Only available <for [Peaceful - Scientific]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Peaceful - Diplomatic",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"When declaring friendship, both parties gain a [15]% boost to great person generation", //peaceful interaction bonus
+			"Resting point for Influence with City-States is increased by [15]",
+			"[+1 Gold, +1 Culture, +1 Happiness] from every [Embassy]", //Embassy bonus
+			"[+25]% of excess happiness converted to [Gold]", //Peaceful bonus happiness
+			"Only available <for [Peaceful - Diplomatic]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	//Unpeacefuls
+	{
+		"name": "Warmonger",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
+			"[Great General] is earned [+20]% faster", //Also general Bonus
+			"Damage is ignored when determining unit Strength <for [Land] units>",
+			"[+15]% Strength <vs cities> <when attacking> <for [{Melee} {Land}] units>",
+			"Only available <for [Warmonger]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Raider",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
+			"[Great General] is earned [+20]% faster", //Also general Bonus
+			"[1] Movement point cost to disembark <for [Land] units>"
+			"[{Melee} {Water}] units gain the [Coastal Raider I] promotion",
+			"[Privateer] units gain the [Coastal Raider II] promotion",
+			"[Sea Bagger] units gain the [Coastal Raider III] promotion",
+			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+
+//Trash
+
+	{
+		"name": "IHATETHIS",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <if [Doesn't need adjacency to coast] is constructed><if [Required Tech Sailing vs Optics] is constructed><if [Messengers sent to or from this city are immune to message interception] is constructed><if [Required Tech Calendar vs Construction] is constructed><if [Gain Access to Research Funding instead of Research Agreements] is constructed>"],
+	},
 ]
