@@ -232,9 +232,9 @@
             "Scientific": 0
         },
         "uniques": [
-		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
-		"[+100]% Production when constructing [Temple] buildings [in all cities]",
-		"[+100]% Production when constructing [Grand Temple] wonders [in all cities]"
+		"[+100]% Production when constructing [Faith] buildings [in all cities]",
+		"[+1 Culture] from every [Shrine]",
+                "[+1 Culture] from every [Temple]"
         ],
         "policies": [
             {
@@ -250,6 +250,10 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
+                    "[+2 Happiness] [in capital]",
+                    "[+2 Happiness] [in holy cities]",
+                    "[+1 Happiness] [in capital] <after enhancing a religion>",
+                    "[+1 Happiness] [in holy cities] <after enhancing a religion>"
                 ],
                 "row": 1,
                 "column": 5
