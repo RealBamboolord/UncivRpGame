@@ -61,7 +61,7 @@
 		"uniqueTo": "Spain",
 		"cost": 1,
 		"isNationalWonder": true,
-		"uniques": ["Will not be displayed in Civilopedia","Enables embarkation for land units <after discovering [Sailing]>","Enables [Trireme] units to enter ocean tiles <after discovering [Optics]>","Enables [Settler] units to enter ocean tiles <after discovering [Optics]>","[+1] Movement <for [Settler] units>"],
+		"uniques": ["Will not be displayed in Civilopedia","Enables embarkation for land units <starting from the [Ancient era]>","Enables [Trireme] units to enter ocean tiles <after discovering [Optics]>","Enables [Settler] units to enter ocean tiles <after discovering [Optics]>","[+1] Movement <for [Settler] units>"],
 	},
 	{
 		"name": "Path of Incandalo",
