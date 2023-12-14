@@ -305,12 +305,13 @@
             "Domination": 0,
             "Scientific": 10
         },
-        "uniques": ["[-25]% City-State Influence degradation"],
+        "uniques": ["[-25]% City-State Influence degradation",
+	            "City-State territory always counts as friendly territory"],
         "policies": [
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [25]% more Influence"
+                    "Gifts of Gold to City-States generate [50]% more Influence"
                 ],
                 "row": 1,
                 "column": 2
@@ -318,7 +319,12 @@
             {
                 "name": "Consulates",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
+                    "Resting point for Influence with City-States is increased by [20]",
+		    "[+50]% Production when constructing [Embassy] buildings [in all cities]",
+		    "[+1 Happiness] from every [Embassy]",
+		    "[+1 Culture] from every [Embassy]"
+			
+			
                 ],
                 "row": 1,
                 "column": 4
@@ -326,7 +332,8 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves",
+		    "Science gained from research agreements [+25]%"
                 ],
                 "requires": ["Philantropy"],
                 "row": 2,
@@ -336,7 +343,8 @@
                 "name": "Cultural Diplomacy",
                 "uniques": [
                     "[+100]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
+                    "[+50]% Happiness from luxury resources gifted by City-States",
+                    "When declaring friendship, both parties gain a [15]% boost to great person generation"
                 ],
                 "requires": ["Scholasticism"],
                 "row": 3,
@@ -346,7 +354,9 @@
                 "name": "Educated Elite",
                 "requires": ["Scholasticism", "Consulates"],
                 "uniques": [
-                    "Allied City-States will occasionally gift Great People"
+                    "Allied City-States will occasionally gift Great People",
+		    "[+1 Culture] from every [University]",
+		    "[+1 Science] from every specialist [in all cities]"
                 ],
                 "row": 3,
                 "column": 4
@@ -354,8 +364,9 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
+                    "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves",
+                    "Allied City-States provide [Faith] equal to [50]% of what they produce for themselves",
+		    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
                 ]
             }
         ]
@@ -596,8 +607,8 @@
             {
                 "name": "Feudalism",
                 "uniques": [
-                    "[+20]% [Culture] from every [Castle]",
-                    "[+10]% [Food] from every [Castle]",
+                    "[+10]% [Culture] from every [Castle]",
+                    "[+2 Food] from every [Castle]",
                     "[+50]% Production when constructing [Castle] buildings [in all cities]",
 		    "[+50]% [Food] from City-States"
                 ],
@@ -623,7 +634,6 @@
                 "name": "Diplomatic Marriage",
                 "uniques": [
                     "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
-                    "[-25]% City-State Influence degradation"
                 ],
                 "requires": ["Divine Rule","Knightly Order"],
                 "row": 3,
