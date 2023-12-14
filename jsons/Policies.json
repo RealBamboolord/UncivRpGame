@@ -354,7 +354,6 @@
                 "name": "Educated Elite",
                 "requires": ["Scholasticism", "Consulates"],
                 "uniques": [
-		    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
                     "Allied City-States will occasionally gift Great People",
 		    "[+1 Culture] from every [University]",
 		    "[+1 Science] from every specialist [in all cities]"
@@ -366,9 +365,8 @@
                 "name": "Patronage Complete",
                 "uniques": [
                     "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves",
-		    "Allied City-States provide [Gold] equal to [50]% of what they produce for themselves",
-		    "Influence of all other civilizations with all city-states degrades [25]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
+                    "Allied City-States provide [Faith] equal to [50]% of what they produce for themselves",
+		    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
                 ]
             }
         ]
@@ -609,8 +607,8 @@
             {
                 "name": "Feudalism",
                 "uniques": [
-                    "[+20]% [Culture] from every [Castle]",
-                    "[+10]% [Food] from every [Castle]",
+                    "[+10]% [Culture] from every [Castle]",
+                    "[+2 Food] from every [Castle]",
                     "[+50]% Production when constructing [Castle] buildings [in all cities]",
 		    "[+50]% [Food] from City-States"
                 ],
@@ -636,7 +634,6 @@
                 "name": "Diplomatic Marriage",
                 "uniques": [
                     "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
-                    "[-25]% City-State Influence degradation"
                 ],
                 "requires": ["Divine Rule","Knightly Order"],
                 "row": 3,
