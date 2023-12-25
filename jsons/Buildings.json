@@ -188,7 +188,7 @@
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
 			"[Great General] is earned [+20]% faster", //Also general Bonus
-			"[1] Movement point cost to disembark <for [Land] units>"
+			"[1] Movement point cost to disembark <for [Land] units>",
 			"[{Melee} {Water}] units gain the [Coastal Raider I] promotion",
 			"[Privateer] units gain the [Coastal Raider II] promotion",
 			"[Sea Bagger] units gain the [Coastal Raider III] promotion",
@@ -205,4 +205,214 @@
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"Only available <if [Doesn't need adjacency to coast] is constructed><if [Required Tech Sailing vs Optics] is constructed><if [Messengers sent to or from this city are immune to message interception] is constructed><if [Required Tech Calendar vs Construction] is constructed><if [Gain Access to Research Funding instead of Research Agreements] is constructed>"],
 	},
+	{
+		"name": "Unique Choice1",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+	},
+	{
+		"name": "Unique Choice1",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+	},
+	{
+		"name": "Unique Choice2",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice3",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice4",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice5",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice6",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice7",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "UniqueMovemen8",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice9",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice10",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice11",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice12",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice13",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice14",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice15",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice16",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice17",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice18",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice19",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice20",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice21",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice22",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice23",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice24",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice25",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice26",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice27",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice28",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			},
+	{
+		"name": "Unique Choice29",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"
+			}
 ]
