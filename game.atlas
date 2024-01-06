@@ -62,7 +62,7 @@ BuildingIcons/Lifestock Documentation
   index: -1
 BuildingIcons/Monument of Glory
   rotate: false
-  xy: 1668, 48
+  xy: 1872, 714
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -97,7 +97,7 @@ BuildingIcons/Sculptors Crafting Works
   index: -1
 BuildingIcons/Sea Warlord
   rotate: false
-  xy: 1716, 508
+  xy: 1824, 606
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -153,14 +153,21 @@ NationIcons/Inca
   index: -1
 NationIcons/Russia
   rotate: false
-  xy: 1716, 616
+  xy: 1716, 508
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Humanism
+  rotate: false
+  xy: 1668, 48
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 1872, 714
+  xy: 1716, 616
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
