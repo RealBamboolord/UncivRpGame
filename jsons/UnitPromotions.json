@@ -4,4 +4,8 @@
 		"name": "Knightly Order",
 		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <[1] times>"]
 	},
+{
+		"name": "Naval Domination",
+		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
+	},
 ]
