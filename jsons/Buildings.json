@@ -137,7 +137,7 @@
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
-			"Retain [+40]% of the happiness from a luxury after the last copy has been traded away", //For all merchant states, equates to 2 happiness vs 5
+			"Retain [+40]% of the happiness from a luxury after the last copy has been traded away", //For all merchant states, equates to 2 happiness vs 5,
 			"[+10]% [Gold] [in all cities]",
 			"[Gold] cost of purchasing [Melee] units [-15]%","[Culture] cost of purchasing [Melee] units [-15]%","[Faith] cost of purchasing [Melee] units [-15]%",
 			"Only available <for [Free Traders]> <in cities with a [Palace]> <in cities without a [Classification]>",
@@ -204,25 +204,47 @@
 		"uniques": [
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"Only available <if [Doesn't need adjacency to coast] is constructed><if [Required Tech Sailing vs Optics] is constructed><if [Messengers sent to or from this city are immune to message interception] is constructed><if [Required Tech Calendar vs Construction] is constructed><if [Gain Access to Research Funding instead of Research Agreements] is constructed>"],
+	},	"Unbuildable"]
+	{
+		"name": "Unique Choice0", //rename to Boulangerie
+		"uniqueTo": "France",
+		"replaces": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Wheat] tiles [in this city]","Will not be displayed in Civilopedia"],
+		"requiredTech": "The Wheel"
+		"civilopediaText": [
+			{"text": "A boulangerie is a French bakery. As opposed to a pâtisserie, they must bake their bread on-premises to hold the title of 'boulangerie' in France. They bake a great variety of products, their most famous one being the 'baguette'."}
+		]
 	},
 	{
-		"name": "Unique Choice0",
-		"cost": 0,
+		"name": "Unique Choice1", //rename to Royal Shipyard
+		"uniqueTo": "England",
+		"production": 1,
+		"culture" 1,
+		"cost": 200,
+		"requiredTech": "Construction",
+		"isNationalWonder": true,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"All newly-trained [Melee Water] units [in this city] receive the [Supply] promotion",
+			"All newly-trained [Ranged Water] units [in this city] receive the [Naval Domination] promotion",
+			"All newly-trained [Aircraft Carrier] units [in this city] receive the [Flight Deck I] promotion",
+			"[+1 Culture, +1 Production] <after discovering [Compass]>",
+			"[+1 Culture, +1 Production] <after discovering [Navigation]>",
+			"[+1 Culture, +1 Production] <after discovering [Steam Power]>",
+		]
 	},
 	{
-		"name": "Unique Choice1",
+		"name": "Unique Choice2", //rename Population Growth+
+		"uniqueTo": "India",
 		"cost": 0,
+		"isNationalWonder": true,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-	},
-	{
-		"name": "Unique Choice2",
-		"cost": 0,
-		"uniques": [
+			"[-66]% unhappiness from the number of cities",
+			"[+10]% growth [in all cities]",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
 			},
