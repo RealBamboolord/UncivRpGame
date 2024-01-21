@@ -8,4 +8,8 @@
 		"name": "Naval Domination",
 		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
 	},
+{
+		"name": "Intimidation",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+	},
 ]
