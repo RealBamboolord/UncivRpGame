@@ -245,55 +245,79 @@
 		"uniques": [
 			"[-66]% unhappiness from the number of cities",
 			"[+10]% growth [in all cities]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia"
+		]
 			},
 	{
-		"name": "Unique Choice3",
-		"cost": 0,
+		"name": "Unique Choice3", //rename Staircase of the Inca
+		"cost": 75,
+		"uniqueTo": "Inca",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[+1 Food, +1 Production] from [Lakes] tiles [in this city]",
+			"Must have an owned [Lakes] within [3] tiles",
+			"Will not be displayed in Civilopedia"
+		]
 			},
 	{
-		"name": "Unique Choice4",
-		"cost": 0,
+		"name": "Unique Choice4", //rename to Spirit Trade Deal
+		"cost": 1,
+		"uniqueTo": "Inca",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unbuildable","Unsellable","Can be purchased for [150] [Gold] [in capital]"]
 			},
 	{
-		"name": "Unique Choice5",
-		"cost": 0,
+		"name": "Unique Choice5", //rename Borderline Trading Portal
+		"cost": 30,
+		"food": 3,
+		"production": 1,
+		"gold": 2,
 		"uniques": [
+			"Will not be displayed in Civilopedia","Only available <with [3] to [5] neighboring [Terrain] tiles> <if [Unique Choice4] is constructed>"] //requires Spirit Trade Deal
+			},
+	{
+		"name": "Unique Choice6", //rename An Army for Caesar
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniqueTo": "Rome",
+		"uniques": [
+			"[3] free [Battering Ram] units appear",
+			"[6] free [Legion] units appear",
+			"[2] free [Ballista] units appear",
+			"[6] Unit Supply","Gain a free [Forge] [in this city]","Only available <when at war>",
+			"Will not be displayed in Civilopedia",]
+			},
+	{
+		"name": "Unique Choice7", //rename
+		"uniqueTo": "Spain",
+		"replaces": "National Treasury",
+		"cost": 125,
+		"gold": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+2 Gold] from [Luxury resource] tiles [in this city]",
+			"[+10]% Production when constructing [Gold] wonders [in all cities]",
+			"[+10]% Production when constructing [Faith] wonders [in all cities]",
+			"Requires a [Market] in at least [2] cities",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "UniqueMovemen8", //The Demon's deal
+		"cost": 1,
+		"uniques": [
+			"Comment [Only build this after capturing the city, I was too lazy to create a workaround xD]",
+			"Free [] appears","Free [] appears",
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
 			},
 	{
-		"name": "Unique Choice6",
-		"cost": 0,
+		"name": "Unique Choice9", //rename Blessed Guardian Training
+		"cost": 1,
+		"uniqueTo": "Ethopia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
-	{
-		"name": "Unique Choice7",
-		"cost": 0,
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
-	{
-		"name": "UniqueMovemen8",
-		"cost": 0,
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
-	{
-		"name": "Unique Choice9",
-		"cost": 0,
-		"uniques": [
+			"Free [] appears","Unsellable","Can be purchased for [0] [Gold] [in capital]",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
 			},
