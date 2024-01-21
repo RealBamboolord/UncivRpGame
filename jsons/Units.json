@@ -97,7 +97,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 1",
+		"name": "UU 1", //Wild Rider
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 16,
@@ -108,7 +108,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 2",
+		"name": "UU 2", //Wild Ranger
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 16,
