@@ -204,7 +204,7 @@
 		"uniques": [
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"Only available <if [Doesn't need adjacency to coast] is constructed><if [Required Tech Sailing vs Optics] is constructed><if [Messengers sent to or from this city are immune to message interception] is constructed><if [Required Tech Calendar vs Construction] is constructed><if [Gain Access to Research Funding instead of Research Agreements] is constructed>"],
-	},	"Unbuildable"]
+	},
 	{
 		"name": "Unique Choice0", //rename to Boulangerie
 		"uniqueTo": "France",
