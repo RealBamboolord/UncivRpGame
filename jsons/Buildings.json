@@ -223,7 +223,7 @@
 		"name": "Unique Choice1", //rename to Royal Shipyard
 		"uniqueTo": "England",
 		"production": 1,
-		"culture" 1,
+		"culture": 1,
 		"cost": 200,
 		"requiredTech": "Construction",
 		"isNationalWonder": true,
