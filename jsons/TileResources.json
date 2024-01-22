@@ -1,6 +1,11 @@
 [
   {
-		"name": "Ethiopian Embassy",
+		"name": "Cultural Approaching Project Token",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
+		"name": "Return to Sender Token",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
   }
