@@ -336,14 +336,19 @@
 		"uniques": [
 			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Instantly consumes [1] [Cultural Approaching Ethiopia Token]","Limited to [1] per Civilization",
 			"[+2 Culture] from every [Ethiopian Embassy]","Unbuildable <for [Russia]>","Gain a free [Ethiopian Embassy] [in this city]","Only available <with [Cultural Approaching Ethiopia Token]>",
-			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Russia] units> <when attacking> <in [Foreign Land] tiles>"]
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Russia] units> <when attacking> <in [Foreign Land] tiles>",
+			"Instantly provides [1] [Cultural Approaching Inca Token] <for [Inca]>","Instantly provides [1] [Cultural Approaching England Token] <for [England]>","Instantly provides [1] [Cultural Approaching India Token] <for [India]>",
+		]
 			},
 	{
-		"name": "Unique Choice12",
-		"cost": 0,
+		"name": "Ethiopian Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+      "Destroyed when the city is captured","Instantly consumes [1] [English Embassy]","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [Russia]>","Triggers a global alert upon completion","Only available <with [Ethopian Embassy]>"]
 			},
 	{
 		"name": "English Embassy",
@@ -356,18 +361,51 @@
       "Cannot be purchased","Unbuildable <for [England]>","Triggers a global alert upon completion","Only available <with [English Embassy]>"]
 			},
 	{
-		"name": "Unique Choice13",
-		"cost": 0,
+		"name": "Tiwantisuyu Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+      "Destroyed when the city is captured","Instantly consumes [1] [English Embassy]","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [Inca]>","Triggers a global alert upon completion","Only available <with [Tiwantisuyu Embassy]>"]
 			},
 	{
-		"name": "Unique Choice14",
-		"cost": 0,
+		"name": "Indian Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+      "Destroyed when the city is captured","Instantly consumes [1] [English Embassy]","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [India]>","Triggers a global alert upon completion","Only available <with [Indian Embassy]>"]
+			},
+	{
+		"name": "Unique Choice12", //rename Cultural Approaching Project Tiwantisuyu [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
+		"uniques": [
+			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Instantly consumes [1] [Cultural Approaching Inca Token]","Limited to [1] per Civilization",
+			"[+2 Culture] from every [Tiwantisuyu Embassy]","Gain a free [Tiwantisuyu Embassy] [in this city]","Only available <with [Cultural Approaching Inca Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Inca] units> <when attacking> <in [Foreign Land] tiles>"]
+			},
+	{
+		"name": "Unique Choice13", //rename Cultural Approaching Project England [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
+		"uniques": [
+			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Instantly consumes [1] [Cultural Approaching England Token]","Limited to [1] per Civilization",
+			"[+2 Culture] from every [English Embassy]","Gain a free [English Embassy] [in this city]","Only available <with [Cultural Approaching England Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [England] units> <when attacking> <in [Foreign Land] tiles>"]
+			},
+	{
+		"name": "Unique Choice14", //rename Cultural Approaching Project India [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
+		"uniques": [
+			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Instantly consumes [1] [Cultural Approaching India Token]","Limited to [1] per Civilization",
+			"[+2 Culture] from every [Indian Embassy]","Gain a free [Indian Embassy] [in this city]","Only available <with [Cultural Approaching India Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [India] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
 		"name": "Unique Choice15",
