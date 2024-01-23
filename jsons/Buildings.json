@@ -310,7 +310,7 @@
 		"uniqueTo": "Germany",
 		"uniques": [
 			"Comment [Only build this after capturing the city, I was too lazy to create a workaround xD]",
-			"Free [] appears","Free [] appears",
+			"Free [UU 4] appears","Free [UU 5] appears",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
 			},
@@ -319,7 +319,7 @@
 		"cost": 1,
 		"uniqueTo": "Russia",
 		"uniques": [
-			"Free [] appears","Unsellable","Can be purchased for [0] [Gold] [in capital]",
+			"Free [UU 3] appears","Unsellable","Can be purchased for [0] [Gold] [in capital]",
 			"Will not be displayed in Civilopedia","Unbuildable"]
 			},
 	{
