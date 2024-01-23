@@ -306,6 +306,7 @@
 	{
 		"name": "UniqueMovemen8", //The Demon's deal
 		"cost": 1,
+		"uniqueTo": "Germany",
 		"uniques": [
 			"Comment [Only build this after capturing the city, I was too lazy to create a workaround xD]",
 			"Free [] appears","Free [] appears",
