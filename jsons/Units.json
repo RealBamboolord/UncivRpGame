@@ -129,48 +129,38 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "UU 2", //Wild Ranger
-		"unitType": "Scout",
+		"name": "UU 3", //Spirit Blessed Archer
+		"unitType": "Archery",
 		"movement": 2,
-		"strength": 16,
+		"strength": 9,
+		"rangedStrength": 12,
 		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"uniques": ["[+2] Sight","Can see over obstacles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"attackSound": "arrow"
 	},
 	{
-		"name": "UU 3",
-		"unitType": "Scout",
+		"name": "UU 4", //Demon Warrior
+		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"strength": 12,
+		"cost": 75,
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"promotions": ["Scourge of the North"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	},
 	{
-		"name": "UU 4",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "UU 5",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"name": "UU 5", //Demonic Touch
+		"unitType": "Missile",
+		"movement": 1,
+		"range": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 300,
+		"uniques": ["Nuclear weapon of Strength [1]","Blast radius [0]","Never appears as a Barbarian unit","Cannot be purchased","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nuke"
 	},
 	{
 		"name": "UU 6",
