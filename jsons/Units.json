@@ -97,15 +97,36 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 1", //Wild Rider
+		"name": "UU 1", //Wild Ranger
 		"unitType": "Scout",
+		"replaces": "Ranger",
+		"uniqueTo": "Germany",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"strength": 9,
+		"cost": 75,
+		"upgradesTo": "Explorer",
+		"requiredTech": "Horseback Riding",
+		"obsoleteTech": "Education",
+		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","Damage is ignored when determining unit Strength","No movement cost to pillage"],
+		"promotions": ["Ignore terrain cost","Mobility","Scourge of the North"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 2", //Wild Ranger
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Germany",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Damage is ignored when determining unit Strength","No movement cost to pillage"],
+		"promotions": ["Mobility","Scourge of the North"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	},
 	{
 		"name": "UU 2", //Wild Ranger
