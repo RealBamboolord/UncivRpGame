@@ -285,7 +285,7 @@
 			"[6] free [Legion] units appear",
 			"[2] free [Ballista] units appear",
 			"[6] Unit Supply","Gain a free [Forge] [in this city]","Only available <when at war>",
-			"Will not be displayed in Civilopedia",]
+			"Will not be displayed in Civilopedia"]
 			},
 	{
 		"name": "Unique Choice7", //rename 
@@ -300,7 +300,8 @@
 			"[+10]% Production when constructing [Gold] wonders [in all cities]",
 			"[+10]% Production when constructing [Faith] wonders [in all cities]",
 			"Requires a [Market] in at least [2] cities",
-			"Cost increases by [30] per owned city"],
+			"Cost increases by [30] per owned city",
+			"Will not be displayed in Civilopedia"],
 		"requiredTech": "Currency"
 	},
 	{
@@ -319,8 +320,7 @@
 		"uniqueTo": "Russia",
 		"uniques": [
 			"Free [] appears","Unsellable","Can be purchased for [0] [Gold] [in capital]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Unbuildable"]
 			},
 	{
 		"name": "Unique Choice10", //rename Cultural Approaching Project Activator
@@ -328,8 +328,7 @@
 		"uniqueTo": "Russia",
 		"uniques": [
 			"Instantly provides [15] [Cultural Approaching Ethiopia Token]","Unsellable","Can be purchased for [0] [Gold] [in capital]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Unbuildable"]
 			},
 	{
 		"name": "Unique Choice11", //rename Cultural Approaching Project [Other Nation]
