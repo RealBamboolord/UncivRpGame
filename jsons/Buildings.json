@@ -97,7 +97,7 @@
 		"uniqueTo": "Babylon",
 		"cost": 1,
 		"isNationalWonder": true,
-		"uniques": ["[2] free random researchable Tech(s) from the [Classical era]", "Only available <in cities with a [Wisp Summoning]>"],
+		"uniques": ["Discover [Trapping]","Discover [Optics]","Discover [Horseback Riding]","Discover [Mathematics]","Discover [Construction]","Discover [Philosophy]","Discover [Drama and Poetry]","Discover [Currency]","Discover [Engineering]","Discover [Iron Working]", "Only available <in cities with a [Wisp Summoning]>"],
 	},
 	{
 		"name": "Deploy the Colossus",
