@@ -204,7 +204,7 @@
     {
         "name": "Holy Arms",
         "type": "Follower",
-        "uniques": ["[1] Unit Supply per [3] population [in this city]"]
+        "uniques": ["[1] Unit Supply per [3] population [in cities following this religion]"]
     },
     {
         "name": "Holy Warriors",
@@ -343,7 +343,7 @@
     {
         "name": "Great Inquisition",
         "type": "Enhancer",
-        "uniques": ["[Inquisitor] units built [in all cities connected to capital] can [Remove Foreign religions from your own cities] [1] extra times"]
+        "uniques": ["All newly-trained [Inquisitor] units [in all cities] receive the [Unexpected] promotion"]
     },
     {
         "name": "Golden Future",
@@ -408,7 +408,7 @@
     {
         "name": "Royal Mission",
         "type": "Enhancer",
-        "uniques": ["[Missionary] units built [in capital] can [Spread Religion] [2] extra times"]
+        "uniques": ["All newly-trained [Missionary] units [in capital] receive the [Royal Mission] promotion"]
     },
     {
         "name": "Shake the Walls",
