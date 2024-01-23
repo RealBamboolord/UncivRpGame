@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Goldback Inca"
+		"cost": 1,
+		"uniqueTo": "Inca",
+		"uniques": [
+			"Gain [1201]-[1210] [Gold]",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
+			},
+	{
+		"name": "Goldback Germany"
+		"cost": 1,
+		"uniqueTo": "Germany",
+		"uniques": [
+			"Gain [801]-[807] [Gold]",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
+			},
+	{
+		"name": "Goldback Ethiopia"
+		"cost": 1,
+		"uniqueTo": "Russia",
+		"uniques": [
+			"Gain [501]-[504] [Gold]",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
+			},
+	{
 		"name": "Stele",
 		"replaces": "Monument",
 		"uniqueTo": "Russia",
@@ -117,7 +144,7 @@
 			"[+15]% Production when constructing [Culture] wonders [in capital]",
 			"[3] units cost no maintenance",
 			"[+1 Culture] from every [Walls]",
-			"[+1 Gold, +1 Culture] from each Trade Route"
+			"[+1 Gold, +1 Culture] from each Trade Route",
 			"Only available <for [Traditional Kingdom]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
