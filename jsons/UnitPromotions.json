@@ -1,15 +1,27 @@
 [
 
-{
+	{
 		"name": "Knightly Order",
-		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <[1] times>"]
+		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <once>"]
 	},
-{
+	{
 		"name": "Naval Domination",
 		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
 	},
-{
+	{
 		"name": "Scourge of the North",
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
 	},
+	{
+        	"name": "Unexpected",
+       		"uniques": ["Can remove other religions from cities <in [Friendly] tiles> <[1] additional time(s)>"]
+	},
+	{
+		"name": "Royal Mission",
+		"uniques": ["Can Spread Religion <[2] additional time(s)>"]
+	},
+	{
+		"name": "Ignore Zone of Control",
+		"uniques": ["Ignores Zone of Control"]
+	}
 ]
