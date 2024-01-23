@@ -138,6 +138,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"uniques": ["[+2] Sight","Can see over obstacles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"promotions": ["Barrage I","Rejuvenation"],
 		"attackSound": "arrow"
 	},
 	{
