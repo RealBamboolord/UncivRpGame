@@ -107,7 +107,7 @@
 		"upgradesTo": "Explorer",
 		"requiredTech": "Horseback Riding",
 		"obsoleteTech": "Education",
-		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","Damage is ignored when determining unit Strength","No movement cost to pillage"],
+		"uniques": ["Will not be displayed in Civilopedia","Never appears as a Barbarian unit","Can move after attacking","Damage is ignored when determining unit Strength","No movement cost to pillage"],
 		"promotions": ["Ignore terrain cost","Mobility","Scourge of the North"],
 		"attackSound": "nonmetalhit"
 	},
@@ -123,7 +123,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Damage is ignored when determining unit Strength","No movement cost to pillage"],
+		"uniques": ["Will not be displayed in Civilopedia","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Damage is ignored when determining unit Strength","No movement cost to pillage"],
 		"promotions": ["Mobility","Scourge of the North"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
