@@ -1,30 +1,12 @@
 [
 	{
-		"name": "Goldback Inca"
-		"cost": 1,
-		"uniqueTo": "Inca",
-		"uniques": [
-			"Gain [1201]-[1210] [Gold]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
-			},
-	{
-		"name": "Goldback Germany"
-		"cost": 1,
+		"name": "Horseback Germany"
+		"cost": 0,
 		"uniqueTo": "Germany",
 		"uniques": [
-			"Gain [801]-[807] [Gold]",
+			"Free [Horseman] appears",
 			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
-			},
-	{
-		"name": "Goldback Ethiopia"
-		"cost": 1,
-		"uniqueTo": "Russia",
-		"uniques": [
-			"Gain [501]-[504] [Gold]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [1] [Gold] [in capital]"]
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
 			},
 	{
 		"name": "Stele",
