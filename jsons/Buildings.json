@@ -356,7 +356,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": [
-      "Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
       "Cannot be purchased","Unbuildable <for [Russia]>","Triggers a global alert upon completion","Only available <with [Ethopian Embassy]>"]
 			},
 	{
@@ -366,7 +366,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": [
-      "Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
       "Cannot be purchased","Unbuildable <for [England]>","Triggers a global alert upon completion","Only available <with [English Embassy]>"]
 			},
 	{
@@ -376,7 +376,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": [
-      "Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
       "Cannot be purchased","Unbuildable <for [Inca]>","Triggers a global alert upon completion","Only available <with [Tiwantisuyu Embassy]>"]
 			},
 	{
@@ -386,7 +386,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": [
-      "Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
       "Cannot be purchased","Unbuildable <for [India]>","Triggers a global alert upon completion","Only available <with [Indian Embassy]>"]
 			},
 	{
