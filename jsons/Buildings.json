@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Horseback Germany"
+		"name": "Golden Age Back Ethiopia"
 		"cost": 0,
-		"uniqueTo": "Germany",
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Free [Horseman] appears",
+			"Empire enters a [8]-turn Golden Age",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
 			},
@@ -394,7 +394,7 @@
 		"cost": 1,
 		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
 			"[+2 Culture] from every [Tiwantisuyu Embassy]","Gain a free [Tiwantisuyu Embassy] [in this city]","Only available <with [Cultural Approaching Inca Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Inca] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
@@ -403,7 +403,7 @@
 		"cost": 1,
 		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
 			"[+2 Culture] from every [English Embassy]","Gain a free [English Embassy] [in this city]","Only available <with [Cultural Approaching England Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [England] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
@@ -412,7 +412,7 @@
 		"cost": 1,
 		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
 			"[+2 Culture] from every [Indian Embassy]","Gain a free [Indian Embassy] [in this city]","Only available <with [Cultural Approaching India Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [India] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
