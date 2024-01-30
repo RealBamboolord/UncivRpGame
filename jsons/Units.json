@@ -147,7 +147,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 75,
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"uniques": ["Can carry [1] [UU 5] units","[+15]% Strength bonus for [Military] units within [2] tiles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
 		"promotions": ["Scourge of the North"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
