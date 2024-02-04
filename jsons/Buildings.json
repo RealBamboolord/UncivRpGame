@@ -1,14 +1,5 @@
 [
 	{
-		"name": "Golden Age Back Ethiopia"
-		"cost": 0,
-		"uniqueTo": "Russia",
-		"uniques": [
-			"Empire enters a [8]-turn Golden Age",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
-			},
-	{
 		"name": "Goldback Spain"
 		"cost": 0,
 		"uniqueTo": "Spain",
