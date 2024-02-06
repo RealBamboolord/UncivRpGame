@@ -4,7 +4,7 @@
 		"cost": 0,
 		"uniqueTo": "Rome",
 		"uniques": [
-			"Gain [-150] [Gold]",
+			"Gain [-100] [Gold]",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable","Unsellable","Can be purchased for [196000] [Gold] [in capital]"]
 			},
