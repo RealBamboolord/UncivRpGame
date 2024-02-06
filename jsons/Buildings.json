@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Goldback Spain"
+		"name": "Goldremove Rome"
 		"cost": 0,
-		"uniqueTo": "Spain",
+		"uniqueTo": "Rome",
 		"uniques": [
-			"Gain [700] [Gold]",
+			"Gain [-150] [Gold]",
 			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in capital]"]
+			"Unbuildable","Unsellable","Can be purchased for [196000] [Gold] [in capital]"]
 			},
 	{
 		"name": "Stele",
