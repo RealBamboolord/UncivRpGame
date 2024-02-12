@@ -417,18 +417,22 @@
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [India] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
-		"name": "Unique Choice15",
-		"cost": 0,
+		"name": "Unique Choice15", //rename Dismantle Terracotta Army
+		"cost": 1,
+		"isWonder": true,
+		"uniqueTo": "Spain",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[5] free [UU 9] units appear",
+			"[5] Unit Supply",
+			"Only available <in cities with a [Terracotta Army]> <when at war>"]
 			},
 	{
-		"name": "Unique Choice16",
+		"name": "Unique Choice16", //rename Small Riot Draft
 		"cost": 0,
+		"uniqueTo": "Spain",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]>",
+			"Unbuildable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Unique Choice17",
