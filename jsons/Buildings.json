@@ -431,22 +431,27 @@
 		"cost": 0,
 		"uniqueTo": "Spain",
 		"uniques": [
-			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]>",
-			"Unbuildable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
+			"[1] free [UU 6] units appear","[1] free [UU 8] units appear","[-1] population [in this city]",
+			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [2] [Population]>",
+			"Unbuildable","Unsellable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
 			},
 	{
-		"name": "Unique Choice17",
+		"name": "Unique Choice17", //rename Big Riot Draft
 		"cost": 0,
+		"uniqueTo": "Spain",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[1] free [UU 6] units appear","[1] free [UU 7] units appear","[2] free [UU 8] units appear","[-2] population [in this city]",
+			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [4] [Population]>",
+			"Unbuildable","Unsellable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
 			},
 	{
-		"name": "Unique Choice18",
+		"name": "Unique Choice18", //rename Full Draft
 		"cost": 0,
+		"uniqueTo": "Spain",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[2] free [UU 6] units appear","[2] free [UU 7] units appear","[3] free [UU 8] units appear","[-3] population [in this city]",
+			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [6] [Population]>",
+			"Unbuildable","Unsellable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Unique Choice19",
