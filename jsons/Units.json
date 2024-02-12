@@ -177,36 +177,40 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 7",
-		"unitType": "Scout",
+		"name": "UU 7", //Riot Archer, Composite Bowman
+		"unitType": "Archery",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"strength": 7,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+                "uniques": ["Composite Bowman","Never appears as a Barbarian unit","Unbuildable","Unavailable"],
+		"promotions": ["Homeland Defenders","Poor Training"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "UU 8", //Riot Guardian, Spearman
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 75,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["Spearman","[+15]% Strength <vs [Sword] units>","[+50]% Strength <vs [Mounted] units>","Never appears as a Barbarian unit","Unbuildable","Unavailable"],
+		"promotions": ["Homeland Defenders","Drill I"],
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 8",
-		"unitType": "Scout",
+		"name": "UU 9", //Terracotta Guardian, Swordsman
+		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "UU 9",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"uniques": ["Swordsman","Never appears as a Barbarian unit","Unbuildable","Cannot be purchased"],
+		"promotions": ["Homeland Defenders","Morale"],
 		"attackSound": "nonmetalhit"
 	},
 	{
