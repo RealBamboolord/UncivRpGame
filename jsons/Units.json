@@ -164,14 +164,16 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "UU 6",
+		"name": "UU 6", //Riot Guerilla, Ranger
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"strength": 9,
+		"cost": 75,
+		"upgradesTo": "Explorer",
+		"requiredTech": "Horseback Riding",
+		"obsoleteTech": "Education",
+		"uniques": ["Ranger","Never appears as a Barbarian unit","Unbuildable","Unavailable","Can move after attacking"],
+		"promotions": ["Ignore terrain cost","Homeland Defenders","Guerilla"],
 		"attackSound": "nonmetalhit"
 	},
 	{
