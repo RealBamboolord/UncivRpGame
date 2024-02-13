@@ -224,6 +224,13 @@
 			"Will not be displayed in Civilopedia",
 			"Unbuildable",
 			"[-75]% [Culture] [in all cities]",
+			"[-50]% Production when constructing [All] wonders [in all cities]",
+			"[+100]% City-State Influence degradation",
+			"Gifts of Gold to City-States generate [-50]% more Influence",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[-25]% construction time for [Fort] improvements",
+                        "May not generate great prophet equivalents naturally",
+			"All newly-trained [{Military} {Land}] units [in all cities] receive the [Poor Training] promotion",
 			"Destroyed when the city is captured",],
 	},
 
