@@ -231,6 +231,7 @@
 			"[-25]% construction time for [Fort] improvements",
                         "May not generate great prophet equivalents naturally",
 			"All newly-trained [{Military} {Land}] units [in all cities] receive the [Poor Training] promotion",
+			"[-20]% Strength <when attacking> <in [Foreign Land] tiles>",
 			"Destroyed when the city is captured","Triggers a global alert upon completion"],
 	},
 
