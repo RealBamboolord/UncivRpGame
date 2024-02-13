@@ -168,12 +168,12 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 9,
-		"cost": 75,
+		"cost": 85,
 		"upgradesTo": "Explorer",
 		"requiredTech": "Horseback Riding",
 		"obsoleteTech": "Education",
 		"uniques": ["Ranger","Never appears as a Barbarian unit","Unbuildable","Can move after attacking","Only available <for [Riot State - Defensive]>"],
-		"promotions": ["Ignore terrain cost","Homeland Defenders","Guerilla"],
+		"promotions": ["Ignore terrain cost","Homeland Defenders","Guerilla","Ignore Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
 	{
