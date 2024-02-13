@@ -213,8 +213,17 @@
 			"[Great General] is earned [+20]% faster", //Also general Bonus
 			"[+25]% Strength for cities",
 			"[+20]% Strength <when defending> <in [your] tiles>",
+			"Gain a free [Revolution] [in this city]",
 			"Only available <for [Riot State - Defensive]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Revolution",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable",
+			"Destroyed when the city is captured",],
 	},
 
 //Trash
