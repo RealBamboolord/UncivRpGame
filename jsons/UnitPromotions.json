@@ -30,7 +30,9 @@
 	},
 	{
 		"name": "Guerilla",
-		"uniques": ["Ignores Zone of Control","[+50]% Strength <when attacking> <when above [99] HP>","Invisible to non-adjacent units"]
+		"uniques": ["[+50]% Strength <when attacking> <when above [99] HP>","Invisible to non-adjacent units"],
+		"unitTypes": ["Scout"],
+		"prerequisites": ["Survivalism III","Scouting III"],
 	},
 	{
 		"name": "Poor Training",
