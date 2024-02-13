@@ -204,6 +204,17 @@
 			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
+	{
+		"name": "Riot State - Defensive",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
+			"[Great General] is earned [+20]% faster", //Also general Bonus
+			"[+25]% Strength for cities",
+			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
 
 //Trash
 
