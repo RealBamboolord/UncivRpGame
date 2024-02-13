@@ -23,5 +23,18 @@
 	{
 		"name": "Ignore Zone of Control",
 		"uniques": ["Ignores Zone of Control"]
+	},
+	{
+		"name": "Homeland Defenders",
+		"uniques": ["[+20]% Strength <when attacking> <in [your] tiles>"]
+	},
+	{
+		"name": "Guerilla",
+		"uniques": ["Ignores Zone of Control","[+50]% Strength <when attacking> <when above [99] HP>","Invisible to non-adjacent units"]
+	},
+	{
+		"name": "Poor Training",
+		"uniques": ["[-50]% XP gained from combat","[-10]% Strength <when attacking>"]
 	}
+	
 ]
