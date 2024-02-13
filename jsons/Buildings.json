@@ -212,7 +212,8 @@
 			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
 			"[Great General] is earned [+20]% faster", //Also general Bonus
 			"[+25]% Strength for cities",
-			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"[+20]% Strength <when defending> <in [your] tiles>",
+			"Only available <for [Riot State - Defensive]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 
