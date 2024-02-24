@@ -20,6 +20,26 @@
 		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
   }
   {
+		"name": "Cultural Approaching Spain Token",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
+		"name": "Cultural Approaching Rome Token",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
+		"name": "Cultural Approaching Germany Token",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
+		"name": "Cultural Approaching France Token",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
 		"name": "Return to Sender Token",
 		"resourceType": "Strategic",
 		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
