@@ -155,7 +155,7 @@
 	//renamed Ethopia
 	{
 		"name": "Russia",
-		"leaderName": "Haile Selassie",
+		"leaderName": "Eskender",
 		"adjective": ["ethiopian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
@@ -184,7 +184,7 @@
         "innerColor": [255, 56, 56],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Spirit of Adwa",
+		"uniqueName": "Tenacity",
 		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Peaceful - Scientific"],
 		"uniqueText": "+20% Strength when fighting units from a Civilization with more Cities than you",
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
