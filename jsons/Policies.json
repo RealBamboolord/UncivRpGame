@@ -271,7 +271,7 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "Gain a free [Pantheon] belief", "(if you founded a religion)"
+                    "Gain a free [Pantheon] belief",
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -280,7 +280,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "Gain a free [Enhancer] belief", "(if you founded a religion)"
+                    "Gain a free [Enhancer] belief", "Comment [(if you founded a religion)]"
                 ],
                 "requires": ["Free Religion"],
                 "row": 3,
@@ -289,7 +289,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-		"[+3 Culture] from every [Holy site]"
+		"[+3 Culture] from every [Holy site]",
 		"Free [Great Prophet] appears"
                 ]
             }
