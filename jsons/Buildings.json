@@ -377,6 +377,8 @@
 			"[+2 Culture] from every [Ethiopian Embassy]","Unbuildable <for [Russia]>","Gain a free [Ethiopian Embassy] [in this city]","Only available <with [Cultural Approaching Ethiopia Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Russia] units> <when attacking> <in [Foreign Land] tiles>",
 			"Provides [1] [Cultural Approaching Inca Token] <for [Inca]>","Provides [1] [Cultural Approaching England Token] <for [England]>","Provides [1] [Cultural Approaching India Token] <for [India]>",
+			"Provides [1] [Cultural Approaching Spain Token] <for [Spain]>","Provides [1] [Cultural Approaching Rome Token] <for [Rome]>","Provides [1] [Cultural Approaching Germany Token] <for [Germany]>",
+			"Provides [1] [Cultural Approaching France Token] <for [France]>",
 		]
 			},
 	{
@@ -418,6 +420,46 @@
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
       "Cannot be purchased","Unbuildable <for [India]>","Triggers a global alert upon completion","Only available <with [Indian Embassy]>"]
+			},
+	{
+		"name": "Spanish Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": [
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [Spain]>","Triggers a global alert upon completion","Only available <with [Spanish Embassy]>"]
+			},
+	{
+		"name": "German Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": [
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [Germany]>","Triggers a global alert upon completion","Only available <with [German Embassy]>"]
+			},
+	{
+		"name": "Roman Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": [
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [Rome]>","Triggers a global alert upon completion","Only available <with [Roman Embassy]>"]
+			},
+	{
+		"name": "French Embassy",
+		"culture": 1,
+		"cost": 120,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": [
+      "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
+      "Cannot be purchased","Unbuildable <for [France]>","Triggers a global alert upon completion","Only available <with [French Embassy]>"]
 			},
 	{
 		"name": "Unique Choice12", //rename Cultural Approaching Project Tiwantisuyu [Ethiopia]
@@ -485,32 +527,40 @@
 			"Unbuildable","Unsellable","Draft","Can be purchased for [30] [Gold] [in all cities]"]
 			},
 	{
-		"name": "Unique Choice19",
-		"cost": 0,
+		"name": "Unique Choice19", //rename Cultural Approaching Project Spain [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"[+2 Culture] from every [Spanish Embassy]","Gain a free [Spanish Embassy] [in this city]","Only available <with [Cultural Approaching Spain Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Spain] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
-		"name": "Unique Choice20",
-		"cost": 0,
+		"name": "Unique Choice20", //rename Cultural Approaching Project Germany [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"[+2 Culture] from every [German Embassy]","Gain a free [German Embassy] [in this city]","Only available <with [Cultural Approaching Germany Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Germany] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
-		"name": "Unique Choice21",
-		"cost": 0,
+		"name": "Unique Choice21", //rename Cultural Approaching Project Rome [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"[+2 Culture] from every [Roman Embassy]","Gain a free [Roman Embassy] [in this city]","Only available <with [Cultural Approaching Rome Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Rome] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
-		"name": "Unique Choice22",
-		"cost": 0,
+		"name": "Unique Choice22", //rename Cultural Approaching Project France [Ethiopia]
+		"cost": 1,
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Unsellable","Empire enters a [4]-turn Golden Age","Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
+			"[+2 Culture] from every [French Embassy]","Gain a free [French Embassy] [in this city]","Only available <with [Cultural Approaching France Token]>",
+			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [France] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
 		"name": "Unique Choice23",
