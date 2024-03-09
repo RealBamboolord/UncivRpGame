@@ -350,4 +350,30 @@
 			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"],
         "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]
     },
+	{
+		"name": "Kathmandu",
+		"adjective": ["Kathmandu"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [151,125,0],
+		"uniques": ["Cannot build [Military] units","[-999]% Strength <when defending>","[-1] Movement","[+250000]% maintenance costs"],
+		"cities": ["Kathmandu"]
+	},
+	{
+		"name": "Valletta",
+		"adjective": ["maltese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "We don't like your face. To arms!",
+		"attacked": "You will see you have just bitten off more than you can chew.",
+		"defeated": "This ship may sink, but our spirits will linger.",
+		"uniques": ["Cannot build [Military] units","[+250000]% maintenance costs"],
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Valletta"]
+	},
 ]
