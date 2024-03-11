@@ -283,6 +283,34 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Secret Cavern Opening",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"uniques": [
+			"Turn this tile into a [Secret Cavern] tile","Turn this tile into a [Mountain Overlay] tile"
+			]
+	},
+	{
+		"name": "Chocolate Coast",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"uniques": [
+			"Turn this tile into a [Secret Cavern] tile","Turn this tile into a [Mountain Overlay] tile"
+			]
+	},
+	{
+		"name": "Chocolate Inland Coast",
+		"terrainsCanBeBuiltOn": ["Lakes"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile"
+			]
+	},
+	{
+		"name": "Chocolate Coast",
+		"terrainsCanBeBuiltOn": ["Grassland"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile"
+			]
+	},
 
 	// Unbuildable improvements
 	{
