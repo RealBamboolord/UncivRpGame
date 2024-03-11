@@ -563,6 +563,20 @@
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [France] units> <when attacking> <in [Foreign Land] tiles>"]
 			},
 	{
+		"name": "Grand Boulangerie",
+		"replaces": "Market",
+		"uniqueTo": "France",
+		"requiredBuilding": "Unique Choice0",
+		"gold": 2,
+		"happiness": 1,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides [1] [Croissant]","Provides [2] [Tactical Croissant]"],
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Unique Choice23",
 		"cost": 0,
 		"uniques": [
@@ -606,6 +620,146 @@
 			},
 	{
 		"name": "Unique Choice29",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice30",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice31",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice32",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice33",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice34",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice35",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice36",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice37",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice38",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice39",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice40",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice41",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice42",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice43",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice44",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice45",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice46",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice47",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice48",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			}
+	{
+		"name": "Unique Choice49",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
