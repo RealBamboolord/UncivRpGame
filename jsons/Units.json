@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Gandalf Instant Terraformer",
+		"unitType": "Civilian",
+		"movement": 10,
+		"cost": 1,
+		"uniques": [
+			"Can instantly construct a [Secret Cavern Opening] improvement <once>","Can instantly construct a [Chocolate Inland Coast] improvement <once>","Can instantly construct a [Chocolate Coast] improvement <once>",
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
+		],
+	},
+	{
 		"name": "Mehal Sefari",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
