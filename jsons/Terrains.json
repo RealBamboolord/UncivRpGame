@@ -12,35 +12,35 @@
 		"name": "Mountain Overlay",
 		"type": "TerrainFeature",
 		"production": 2,
-    "gold": 1,
+    		"gold": 1,
 		"movementCost": 2,
 		"impassable": true,
 		"occursOn": ["Secret Cavern"],
 		"uniques": [
-          "Rough terrain",
-					"Has an elevation of [2] for visibility calculations"
+          		"Rough terrain","Mountain",
+			"Has an elevation of [2] for visibility calculations"
     ]
 	},
 	{
 		"name": "Landbridge North",
 		"type": "TerrainFeature",
 		"production": 1,
-    "gold": 1,
+    		"gold": 1,
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-					"Only [All Road] improvements may be built on this tile"
+			"Only [All Road] improvements may be built on this tile"
     ]
-  },
+ 	},
 	{
 		"name": "Landbridge South",
 		"type": "TerrainFeature",
 		"production": 1,
-    "gold": 1,
+    		"gold": 1,
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-					"Only [All Road] improvements may be built on this tile"
+			"Only [All Road] improvements may be built on this tile"
     ]
-  },
+  	},
 ]
