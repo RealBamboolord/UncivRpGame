@@ -1,12 +1,11 @@
 [
 	{
-		"name": "Goldremove Rome"
+		"name": "Instant terraform for Spain"
 		"cost": 0,
-		"uniqueTo": "Rome",
+		"uniqueTo": "Spain",
 		"uniques": [
-			"Gain [-100] [Gold]",
-			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [196000] [Gold] [in capital]"]
+			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
 			},
 	{
 		"name": "Stele",
