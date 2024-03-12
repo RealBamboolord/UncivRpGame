@@ -38,5 +38,21 @@
 		"name": "Poor Training",
 		"uniques": ["[-50]% XP gained from combat","[-10]% Strength <when attacking>"]
 	}
+	{
+		"name": "Corruption I",
+		"uniques": ["Will not be displayed in Civilopedia","[+100]% maintenance costs","Your unit has started to influence the local happenings"]
+	}
+	{
+		"name": "Corruption II",
+		"uniques": ["Will not be displayed in Civilopedia","[+150]% maintenance costs","Your unit has managed to bribe a good amount of local politicians and Civil Servants"]
+	}
+	{
+		"name": "Corruption III",
+		"uniques": ["Will not be displayed in Civilopedia","[+150]% maintenance costs","[+9999]% Strength <vs [City-states]> <when attacking>","This Unit takes [100] damage <upon conquering a city>","Your unit now has the local city guards under their command, it will be able to take over the city very soon"]
+	}
+	{
+		"name": "Attack Block",
+		"uniques": ["Cannot attack","Unable to capture cities"]
+	}
 	
 ]
