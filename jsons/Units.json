@@ -254,6 +254,7 @@
 		"uniques": [
             		"May enter foreign tiles without open borders",
 			"Can be purchased with [Faith] [in all cities]",
+			"Can be purchased with [Gold] [in all cities]",
 			"Takes your religion over the one in their birth city",
 			"[-1] Sight", "Unbuildable", "Can only attack [City] units",
 			"Religious Unit", "Hidden when religion is disabled","Invisible to non-adjacent units <in [City-states] tiles>","Can see invisible [Civilian] units",
