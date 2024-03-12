@@ -245,15 +245,26 @@
 		],
 	},
 	{
-		"name": "UU 12",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"name": "UU 12", //Corrupting Envoy
+		"unitType": "Civilian",
+		"replaces": "Missionary",
+		"uniqueTo": "Rome",
+		"strength": 5,
+		"movement": 4,
+		"uniques": [
+            		"May enter foreign tiles without open borders",
+			"Can be purchased with [Faith] [in all cities]",
+			"Takes your religion over the one in their birth city",
+			"[-1] Sight", "Unbuildable", "Can only attack [City] units",
+			"Religious Unit", "Hidden when religion is disabled","Invisible to non-adjacent units <in [City-states] tiles>","Can see invisible [Civilian] units",
+			"[+200]% maintenance costs", "Limited to [1] per Civilization",
+			"This Unit gains the [Corrupting I] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <with [15]% chance>",
+			"This Unit gains the [Corrupting II] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corrupting I]> <with [20]% chance>",
+			"This Unit gains the [Corrupting III] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corrupting II]> <with [25]% chance>",
+			"This Unit loses the [Attack Block] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corrupting III]> <with [50]% chance>",
+			"This Unit gains the [Attack Block] promotion <upon ending a turn in a [your] tile>","Instantly provides [1] [Corrupting Counter] <upon conquering a city>"
+			],
+		"religiousStrength": 1000
 	},
 	{
 		"name": "UU 13",
