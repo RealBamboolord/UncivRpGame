@@ -56,4 +56,9 @@
 		"revealedBy": "Currency",
 		"uniques": ["Excluded from map editor","Will not be displayed in Civilopedia"]
   }
+  {
+		"name": "Corrupting Counter",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
 ]
