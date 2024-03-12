@@ -224,26 +224,25 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "UU 10",
-		"unitType": "Scout",
+		"name": "UU 10", //German Coast Expander
+		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"cost": 1,
+		"uniques": [
+			"Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia",
+			"Turn this tile into a [Coast] tile <in [Coastal] tiles> <in [Land] tiles> <in tiles without [Hill]> <by consuming this unit>"
+		],
 	},
 	{
-		"name": "UU 11",
-		"unitType": "Scout",
+		"name": "UU 11", //German Lake Expander
+		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"cost": 1,
+		"uniques": [
+			"Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia",
+			"Turn this tile into a [Lakes] tile <in tiles adjacent to [Lakes]> <in tiles not adjacent to [Coast]> <in [Plains] tiles> <in tiles without [Hill]> <by consuming this unit>",
+			"Turn this tile into a [Lakes] tile <in tiles adjacent to [Lakes]> <in tiles not adjacent to [Coast]> <in [Tundra] tiles> <in tiles without [Hill]> <by consuming this unit>"
+		],
 	},
 	{
 		"name": "UU 12",
