@@ -1,5 +1,17 @@
 {
 	"name": "Global uniques",
 	"uniques": [
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [0] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [0] [Corrupting Counter]>",
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [1] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [1] [Corrupting Counter]>",
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [2] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [2] [Corrupting Counter]>",
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [3] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [3] [Corrupting Counter]>",
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [4] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [4] [Corrupting Counter]>",
+		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [5] [Corrupting Counter]>",
+		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [5] [Corrupting Counter]>",
 	]
 }
