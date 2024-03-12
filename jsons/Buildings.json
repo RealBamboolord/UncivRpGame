@@ -8,6 +8,14 @@
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
 			},
 	{
+		"name": "Instant terraform for Germany"
+		"cost": 0,
+		"uniqueTo": "Germany",
+		"uniques": [
+			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
+			},
+	{
 		"name": "Stele",
 		"replaces": "Monument",
 		"uniqueTo": "Russia",
