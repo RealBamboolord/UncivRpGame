@@ -31,6 +31,16 @@
 		"shortcutKey": "M"
 	},
 	{
+		"name": "Tropical Extractor",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"production": 1,
+		"culture": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Production] <after discovering [Chemistry]>","Only available <in tiles adjacent to [Fountain of Youth]>","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+	{
 		"name": "Trading post",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
 		"gold": 1,
@@ -287,21 +297,21 @@
 		"name": "Secret Cavern Opening",
 		"terrainsCanBeBuiltOn": ["Mountain"],
 		"uniques": [
-			"Turn this tile into a [Secret Cavern] tile","Turn this tile into a [Mountain Overlay] tile"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Secret Cavern] tile","Turn this tile into a [Mountain Overlay] tile"
 			]
 	},
 	{
 		"name": "Chocolate Inland Coast",
 		"terrainsCanBeBuiltOn": ["Lakes"],
 		"uniques": [
-			"Turn this tile into a [Coast] tile"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Coast] tile"
 			]
 	},
 	{
 		"name": "Chocolate Coast",
 		"terrainsCanBeBuiltOn": ["Grassland"],
 		"uniques": [
-			"Turn this tile into a [Coast] tile"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Coast] tile"
 			]
 	},
 
