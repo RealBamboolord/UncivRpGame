@@ -598,16 +598,23 @@
 	{
 		"name": "Unique Choice24",
 		"cost": 0,
+		"uniqueTo": "Russia",
+		"isNationalWonder": true,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			"[+150]% [Faith] from City-States","Gifts of Gold to City-States generate [+25]% more Influence",
+			"May not annex cities","May buy items in puppet cities",
+			"[+2 Happiness, +1 Culture] from every [Courthouse]","Gain a free [Courthouse] [in puppeted cities]",
+			"[-1 Gold] from every [Merchant]"
+		]
 			},
 	{
 		"name": "Unique Choice25",
 		"cost": 0,
+		"uniqueTo": "Russia",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Gain a free [Courthouse] [in this city]",
+			"Comment [Gives you a courthouse]","Only available <on foreign continents>"]
 			},
 	{
 		"name": "Unique Choice26",
