@@ -609,13 +609,15 @@
 		]
 			},
 	{
-		"name": "Unique Choice25",
-		"cost": 0,
-		"uniqueTo": "Russia",
-		"uniques": [
-			"Will not be displayed in Civilopedia","Gain a free [Courthouse] [in this city]",
-			"Comment [Gives you a courthouse]","Only available <on foreign continents>"]
-			},
+		"name": "Unique Choice25", //Moonlight Tavern
+		"replaces": "Garden",
+		"uniqueTo": "India",
+		"happiness": 1,
+		"uniques": ["Will not be displayed in Civilopedia","[+25]% Great Person generation [in this city]","[+2 Culture] from [Lakes] tiles [in this city]","[+15]% growth [in this city]","Must have an owned [Lakes] within [3] tiles"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Philosophy"
+	},
 	{
 		"name": "Unique Choice26",
 		"cost": 0,
