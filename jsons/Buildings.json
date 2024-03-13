@@ -584,11 +584,16 @@
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Unique Choice23",
+		"name": "Unique Choice23", //Highland Dwellings
+		"uniqueTo": "Inca",
+		"isNationalWonder": true,
 		"cost": 0,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			"[+1 Culture] from [{unimproved} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{unimproved} {Snow} {Hill}] tiles [in all cities]",
+			"[+1 Culture, +1 Production] from [{Trading post} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{Trading post} {Snow} {Hill}] tiles [in all cities]",
+			"[+1 Production] from every [Mountain]","Land units may cross [Mountain] tiles after the first [Great Artist] is earned"
+		]
 			},
 	{
 		"name": "Unique Choice24",
