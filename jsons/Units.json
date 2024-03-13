@@ -6,7 +6,7 @@
 		"cost": 1,
 		"uniques": [
 			"Can instantly construct a [Secret Cavern Opening] improvement <once>","Can instantly construct a [Chocolate Inland Coast] improvement <once>","Can instantly construct a [Chocolate Coast] improvement <once>",
-			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
 		],
 	},
 	{
@@ -252,7 +252,7 @@
 		"strength": 5,
 		"movement": 4,
 		"uniques": [
-            		"May enter foreign tiles without open borders",
+            		"May enter foreign tiles without open borders","Will not be displayed in Civilopedia",
 			"Can be purchased with [Faith] [in all cities]",
 			"Can be purchased with [Gold] [in all cities]",
 			"Takes your religion over the one in their birth city",
