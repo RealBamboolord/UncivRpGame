@@ -734,11 +734,12 @@
 		"requiredTech": "Philosophy"
 	},
 	{
-		"name": "Unique Choice26",
+		"name": "Unique Choice26", //Road to Chocolate Mountain
 		"cost": 0,
+		"uniqueTo": "England",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			]
 			},
 	{
 		"name": "Unique Choice27",
