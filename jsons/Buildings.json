@@ -1,9 +1,124 @@
 [
 	{
+		"name": "Palace",
+		"production": 3,
+		"science": 2,
+		"gold": 2,
+		"cityStrength": 1,
+		"cost": 1,
+		"isNationalWonder": true,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Original Spanish Palace",
+		"uniqueTo": "Spain",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original Roman Palace",
+		"uniqueTo": "Rome",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original German Palace",
+		"uniqueTo": "Germany",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original French Palace",
+		"uniqueTo": "France",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original English Palace",
+		"uniqueTo": "Germany",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original Incan Palace",
+		"uniqueTo": "Inca",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original Indian Palace",
+		"uniqueTo": "India",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
+		"name": "Original Ethiopian Palace",
+		"uniqueTo": "Russia",
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"isWonder": true,
+		"uniques": [
+			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+		"cost": 1,
+	},
+	{
 		"name": "Instant terraform for Spain"
 		"cost": 0,
 		"uniqueTo": "Spain",
 		"uniques": [
+			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
+			},
+	{
+		"name": "Palace Mover for Spain"
+		"cost": 0,
+		"uniqueTo": "Spain",
+		"uniques": [
+			"Remove [Palace] [in capital]","Remove [Palace Mover for Spain] [in this city]",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
 			},
