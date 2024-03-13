@@ -16,9 +16,12 @@
 		"type": "Water",
 		"food": 2,
 		"gold": 1,
-		"movementCost": 2,  
+		"movementCost": 2,
 		"defenceBonus": 0.25,
-		"RGB": [102, 102, 102]
+		"RGB": [102, 102, 102],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			]
 	},
 	{
 		"name": "Mountain Overlay",
@@ -29,6 +32,7 @@
 		"impassable": true,
 		"occursOn": ["Secret Cavern"],
 		"uniques": [
+			"Will not be displayed in Civilopedia",
           		"Rough terrain","Mountain",
 			"Has an elevation of [2] for visibility calculations"
     ]
@@ -41,7 +45,7 @@
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-			"Only [All Road] improvements may be built on this tile"
+			"Will not be displayed in Civilopedia","Only [All Road] improvements may be built on this tile"
     ]
  	},
 	{
@@ -52,7 +56,7 @@
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-			"Only [All Road] improvements may be built on this tile"
+			"Will not be displayed in Civilopedia","Only [All Road] improvements may be built on this tile"
     ]
   	},
 ]
