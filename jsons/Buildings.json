@@ -5,9 +5,9 @@
 		"science": 2,
 		"gold": 2,
 		"cityStrength": 1,
-		"cost": 1,
+		"cost": 50,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Limited to [1] per Civilization","Can be purchased with [Gold] [in all non-occupied cities]","Indicates the capital city"]
 	},
 	{
 		"name": "Original Spanish Palace",
@@ -18,7 +18,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -30,7 +30,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -42,7 +42,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -54,7 +54,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -66,7 +66,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -78,7 +78,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -90,7 +90,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -102,7 +102,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Limited to [1] per Civilization","Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold]"],
 		"cost": 1,
 	},
 	{
@@ -110,6 +110,7 @@
 		"cost": 0,
 		"uniqueTo": "Spain",
 		"uniques": [
+			"Free [Gandalf Instant Terraformer] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
 			},
@@ -127,6 +128,8 @@
 		"cost": 0,
 		"uniqueTo": "Germany",
 		"uniques": [
+			"Free [UU 10] appears",
+			"Free [UU 11] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
 			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
 			},
@@ -738,6 +741,11 @@
 		"cost": 0,
 		"uniqueTo": "England",
 		"uniques": [
+			"[+2 Gold, +2 Culture] from each Trade Route",
+			"[+4 Gold] from every [Tiwantisuyu Embassy]",
+			//"[+4 Gold] from every [Tiwantisuyu Embassy]",
+			"Free [England Northern Terraformer] appears",
+			"Free [England Southern Terraformer] appears",
 			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
 			]
 			},
