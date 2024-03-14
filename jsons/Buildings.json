@@ -18,7 +18,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -30,7 +30,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -42,7 +42,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -54,7 +54,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -66,7 +66,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -78,7 +78,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -90,7 +90,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -102,7 +102,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold]"],
+			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -112,7 +112,7 @@
 		"uniques": [
 			"Free [Gandalf Instant Terraformer] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Palace Mover for Spain"
@@ -121,7 +121,7 @@
 		"uniques": [
 			"Remove [Palace] [in capital]","Remove [Palace Mover for Spain] [in this city]",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Instant terraform for Germany"
@@ -131,7 +131,7 @@
 			"Free [UU 10] appears",
 			"Free [UU 11] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold]"]
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Stele",
@@ -707,7 +707,7 @@
 		"isNationalWonder": true,
 		"cost": 0,
 		"uniques": [
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
 			"[+1 Culture] from [{unimproved} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{unimproved} {Snow} {Hill}] tiles [in all cities]",
 			"[+1 Culture, +1 Production] from [{Trading post} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{Trading post} {Snow} {Hill}] tiles [in all cities]",
 			"[+1 Production] from every [Mountain]","Land units may cross [Mountain] tiles after the first [Great Artist] is earned"
@@ -719,7 +719,7 @@
 		"uniqueTo": "Russia",
 		"isNationalWonder": true,
 		"uniques": [
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
 			"[+150]% [Faith] from City-States","Gifts of Gold to City-States generate [+25]% more Influence",
 			"May not annex cities","May buy items in puppet cities",
 			"[+2 Happiness, +1 Culture] from every [Courthouse]","Gain a free [Courthouse] [in puppeted cities]",
@@ -746,7 +746,7 @@
 			//"[+4 Gold] from every [Tiwantisuyu Embassy]",
 			"Free [England Northern Terraformer] appears",
 			"Free [England Southern Terraformer] appears",
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
 			]
 			},
 	{
