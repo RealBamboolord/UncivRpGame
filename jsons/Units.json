@@ -10,6 +10,26 @@
 		],
 	},
 	{
+		"name": "England Northern Terraformer",
+		"unitType": "Civilian",
+		"movement": 10,
+		"cost": 1,
+		"uniques": [
+			"Turn this tile into a [Landbridge North] tile <in [Coast] tiles> <by consuming this unit>",
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
+		],
+	},
+	{
+		"name": "England Southern Terraformer",
+		"unitType": "Civilian",
+		"movement": 10,
+		"cost": 1,
+		"uniques": [
+			"Turn this tile into a [Landbridge South] tile <in [Coast] tiles> <by consuming this unit>",
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
+		],
+	},
+	{
 		"name": "Mehal Sefari",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
