@@ -5,8 +5,8 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Can instantly construct a [Secret Cavern Opening] improvement <once>","Can instantly construct a [Chocolate Inland Coast] improvement <once>","Can instantly construct a [Chocolate Coast] improvement <once>",
-			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
+			"Will not be displayed in Civilopedia","Can instantly construct a [Secret Cavern Opening] improvement <once>","Can instantly construct a [Chocolate Inland Coast] improvement <once>","Can instantly construct a [Chocolate Coast] improvement <once>",
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
 		],
 	},
 	{
@@ -15,8 +15,8 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Turn this tile into a [Landbridge North] tile <in [Coast] tiles> <by consuming this unit>",
-			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Landbridge North] tile <in [Coast] tiles> <by consuming this unit>",
+			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
 		],
 	},
 	{
