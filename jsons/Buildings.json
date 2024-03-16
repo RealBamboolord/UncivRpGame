@@ -18,7 +18,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -30,7 +30,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -42,7 +42,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -54,7 +54,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -66,7 +66,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -78,7 +78,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -90,7 +90,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -102,7 +102,7 @@
 		"cityStrength": 1,
 		"isWonder": true,
 		"uniques": [
-			"Unbuildable","Can be purchased for [0] [Gold] [in all cities]"],
+			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
 	{
@@ -112,7 +112,7 @@
 		"uniques": [
 			"Free [Gandalf Instant Terraformer] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
+			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Palace Mover for Spain"
@@ -121,7 +121,7 @@
 		"uniques": [
 			"Remove [Palace] [in capital]","Remove [Palace Mover for Spain] [in this city]",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
+			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Instant terraform for Germany"
@@ -131,7 +131,7 @@
 			"Free [UU 10] appears",
 			"Free [UU 11] appears",
 			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
+			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Stele",
@@ -502,7 +502,7 @@
 			"[+2 Culture] from every [Ethiopian Embassy]","Unbuildable <for [Russia]>","Gain a free [Ethiopian Embassy] [in this city]","Only available <with [Cultural Approaching Ethiopia Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Russia] units> <when attacking> <in [Foreign Land] tiles>",
 			"Provides [1] [Cultural Approaching Inca Token] <for [Inca]>","Provides [1] [Cultural Approaching England Token] <for [England]>","Provides [1] [Cultural Approaching India Token] <for [India]>",
-			"Provides [1] [Cultural Approaching Spain Token] <for [Spain]>","Provides [1] [Cultural Approaching Rome Token] <for [Rome]>","Provides [1] [Cultural Approaching Germany Token] <for [Germany]>",
+			"Provides [5] [Cultural Approaching Spain Token] <for [Spain]>","Provides [1] [Cultural Approaching Rome Token] <for [Rome]>","Provides [1] [Cultural Approaching Germany Token] <for [Germany]>",
 			"Provides [1] [Cultural Approaching France Token] <for [France]>",
 		]
 			},
@@ -707,7 +707,7 @@
 		"isNationalWonder": true,
 		"cost": 0,
 		"uniques": [
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]",
 			"[+1 Culture] from [{unimproved} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{unimproved} {Snow} {Hill}] tiles [in all cities]",
 			"[+1 Culture, +1 Production] from [{Trading post} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{Trading post} {Snow} {Hill}] tiles [in all cities]",
 			"[+1 Production] from every [Mountain]","Land units may cross [Mountain] tiles after the first [Great Artist] is earned"
@@ -719,7 +719,7 @@
 		"uniqueTo": "Russia",
 		"isNationalWonder": true,
 		"uniques": [
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]",
 			"[+150]% [Faith] from City-States","Gifts of Gold to City-States generate [+25]% more Influence",
 			"May not annex cities","May buy items in puppet cities",
 			"[+2 Happiness, +1 Culture] from every [Courthouse]","Gain a free [Courthouse] [in puppeted cities]",
@@ -740,13 +740,14 @@
 		"name": "Unique Choice26", //Road to Chocolate Mountain
 		"cost": 0,
 		"uniqueTo": "England",
+		"isNationalWonder": true,
 		"uniques": [
 			"[+2 Gold, +2 Culture] from each Trade Route",
 			"[+4 Gold] from every [Tiwantisuyu Embassy]",
 			//"[+4 Gold] from every [Tiwantisuyu Embassy]",
 			"Free [England Northern Terraformer] appears",
 			"Free [England Southern Terraformer] appears",
-			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]","Unbuildable",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]"
 			]
 			},
 	{
