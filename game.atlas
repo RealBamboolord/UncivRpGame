@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arepa Settlement Plan
   rotate: false
-  xy: 780, 1305
+  xy: 991, 1305
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -20,98 +20,98 @@ BuildingIcons/Charity Center
   index: -1
 BuildingIcons/Common Workduty
   rotate: false
-  xy: 4, 4
+  xy: 214, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Indian Fortification
   rotate: false
-  xy: 988, 1305
+  xy: 433, 233
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Irrigation System
   rotate: false
-  xy: 212, 4
+  xy: 612, 1049
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/King Gandalf's Glory
   rotate: false
-  xy: 433, 441
+  xy: 612, 841
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Knowledge of the Mountains
   rotate: false
-  xy: 433, 233
+  xy: 820, 1092
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Lifestock Documentation
   rotate: false
-  xy: 612, 1049
+  xy: 820, 884
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Monument of Glory
   rotate: false
-  xy: 1508, 1617
+  xy: 1444, 884
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Path of Incandalo
   rotate: false
-  xy: 612, 841
+  xy: 1028, 1097
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Quipu Library
   rotate: false
-  xy: 820, 1097
+  xy: 1028, 889
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sailors of Pride
   rotate: false
-  xy: 1028, 1097
+  xy: 1236, 1097
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sculptors Crafting Works
   rotate: false
-  xy: 1028, 889
+  xy: 1236, 889
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sea Warlord
   rotate: false
-  xy: 1236, 881
+  xy: 1552, 884
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seehaus
   rotate: false
-  xy: 1196, 1305
+  xy: 1407, 1308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Underground Workforce
   rotate: false
-  xy: 1236, 1097
+  xy: 1444, 1100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -167,36 +167,57 @@ NationIcons/Inca
   index: -1
 NationIcons/Russia
   rotate: false
-  xy: 720, 733
+  xy: 1552, 992
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Humanism
   rotate: false
-  xy: 1236, 989
+  xy: 1444, 992
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 1404, 1409
+  xy: 720, 733
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ignis General
   rotate: false
-  xy: 1300, 1517
+  xy: 433, 441
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Raider Ship
   rotate: false
-  xy: 820, 889
+  xy: 1199, 1305
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranger
+  rotate: false
+  xy: 780, 1300
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 2
+  rotate: false
+  xy: 4, 4
+  size: 202, 200
+  orig: 202, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 4
+  rotate: false
+  xy: 1300, 1516
+  size: 202, 201
+  orig: 202, 201
   offset: 0, 0
   index: -1
