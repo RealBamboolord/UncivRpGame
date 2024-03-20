@@ -407,7 +407,8 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "When declaring friendship, both parties gain a [15]% boost to great person generation"
+                    "When declaring friendship, both parties gain a [15]% boost to great person generation",
+		    "[+2 Culture] from every [Embassy]"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -446,7 +447,7 @@
         "priorities": {
             "Neutral": 10,
             "Cultural": 10,
-            "Diplomatic": 10,
+            "Diplomatic": 20,
             "Domination": 10,
             "Scientific": 10
         },
@@ -586,20 +587,20 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 20,
-            "Diplomatic": 10,
-            "Domination": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 20,
             "Scientific": 0
         },
         "uniques": [
             "City-State territory always counts as friendly territory",
-            "[+1 Gold, +1 Production, +1 Food] from each Trade Route"
+            "[+1 Gold, +1 Production] from each Trade Route"
         ],
         "policies": [
             {
                 "name": "Divine Rule",
                 "uniques": [
-                    "[+3 Faith, +3 Happiness] [in capital]","[+1 Culture] from every specialist [in all non-occupied cities]"
+                    "[+4 Faith, +1 Happiness] [in capital]","[+1 Culture] from every specialist [in all non-occupied cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -607,8 +608,7 @@
             {
                 "name": "Feudalism",
                 "uniques": [
-                    "[+10]% [Culture] from every [Castle]",
-                    "[+2 Food] from every [Castle]",
+                    "[+2 Food, +2 Culture] from every [Castle]",
                     "[+50]% Production when constructing [Castle] buildings [in all cities]",
 		    "[+50]% [Food] from City-States"
                 ],
@@ -619,12 +619,10 @@
                 "name": "Knightly Order",
                 "uniques": [
                     "City-State Influence recovers at twice the normal rate",
-		    "[-33]% unhappiness from the number of cities",
 		    "[Knight] units gain the [Knightly Order] promotion",
 		    "[Longswordsman] units gain the [Knightly Order] promotion",
 		    "[Knight] units gain the [Devout] promotion",
 		    "[Longswordsman] units gain the [Medic] promotion"
-		    //"[+20]% Production towards any buildings that already exist in the Capital"
                 ],
                 "requires": ["Feudalism"],
                 "row": 2,
@@ -642,7 +640,7 @@
             {
                 "name": "Imperialism",
                 "uniques": [
-                    "[+20]% Strength <for [Land] units> <on foreign continents>",
+                    "[+10]% Strength <for [Land] units> <on foreign continents>",
                     "[+3 Gold] from every [National Wonder]"
                 ],
                 "requires": ["Knightly Order"],
