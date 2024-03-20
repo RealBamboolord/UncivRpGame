@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Rome Instant Effect", //rename Full Draft
+		"cost": 0,
+		"uniqueTo": "Spectator",
+		"uniques": [
+			"Limited to [1] per Civilization","[2] free [UU 6] units appear","[2] free [UU 7] units appear","[3] free [UU 8] units appear",	
+			"[+20000]% Strength <for [UU 6] units> <vs [UU 6] units>",
+			"[+20000]% Strength <for [UU 7] units> <vs [UU 7] units>",
+			"[+20000]% Strength <for [UU 8] units> <vs [UU 8] units>",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
+			},
+	{
 		"name": "Palace",
 		"production": 3,
 		"science": 2,
@@ -59,7 +71,7 @@
 	},
 	{
 		"name": "Original English Palace",
-		"uniqueTo": "Germany",
+		"uniqueTo": "English",
 		"science": 1,
 		"gold": 1,
 		"culture": 1,
@@ -105,34 +117,6 @@
 			"Can be purchased for [0] [Gold] [in all cities]"],
 		"cost": 1,
 	},
-	{
-		"name": "Instant terraform for Spain"
-		"cost": 0,
-		"uniqueTo": "Spain",
-		"uniques": [
-			"Free [Gandalf Instant Terraformer] appears",
-			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
-			},
-	{
-		"name": "Palace Mover for Spain"
-		"cost": 0,
-		"uniqueTo": "Spain",
-		"uniques": [
-			"Remove [Palace] [in capital]","Remove [Palace Mover for Spain] [in this city]",
-			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
-			},
-	{
-		"name": "Instant terraform for Germany"
-		"cost": 0,
-		"uniqueTo": "Germany",
-		"uniques": [
-			"Free [UU 10] appears",
-			"Free [UU 11] appears",
-			"Will not be displayed in Civilopedia","Limited to [1] per Civilization",
-			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
-			},
 	{
 		"name": "Stele",
 		"replaces": "Monument",
@@ -617,7 +601,7 @@
 		"name": "Unique Choice15", //rename Dismantle Terracotta Army
 		"cost": 1,
 		"isWonder": true,
-		"uniqueTo": "Spain",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"[5] free [UU 9] units appear",
 			"[5] Unit Supply",
@@ -627,7 +611,7 @@
 	{
 		"name": "Unique Choice16", //rename Small Riot Draft
 		"cost": 0,
-		"uniqueTo": "Spain",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"[1] free [UU 6] units appear","[1] free [UU 8] units appear","[-1] population [in this city]",
 			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [2] [Population]>",
@@ -636,7 +620,7 @@
 	{
 		"name": "Unique Choice17", //rename Big Riot Draft
 		"cost": 0,
-		"uniqueTo": "Spain",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"[1] free [UU 6] units appear","[1] free [UU 7] units appear","[2] free [UU 8] units appear","[-2] population [in this city]",
 			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [4] [Population]>",
@@ -645,7 +629,7 @@
 	{
 		"name": "Unique Choice18", //rename Full Draft
 		"cost": 0,
-		"uniqueTo": "Spain",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"Limited to [1] per Civilization","[2] free [UU 6] units appear","[2] free [UU 7] units appear","[3] free [UU 8] units appear","[-3] population [in this city]",
 			"Will not be displayed in Civilopedia", "Only available <in cities without a [Draft]> <in cities with at least [6] [Population]>",
