@@ -199,7 +199,7 @@
 	{
 		"name": "UU 6", //Riot Guerilla, Ranger
 		"unitType": "Scout",
-		"movement": 20, //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
+		"movement": 2,
 		"strength": 9,
 		"cost": 85,
 		"upgradesTo": "Explorer",
@@ -207,8 +207,7 @@
 		"obsoleteTech": "Education",
 		"uniques": [
 			"Ranger","Never appears as a Barbarian unit","Unbuildable","Can move after attacking","Only available <for [Riot State - Defensive]>",
-			//"Can move after attacking",
-			"[1] additional attacks per turn", //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
+			"Can move after attacking",
 		],
 		"promotions": ["Ignore terrain cost","Homeland Defenders","Guerilla","Ignore Zone of Control"],
 		"attackSound": "nonmetalhit"
@@ -216,14 +215,13 @@
 	{
 		"name": "UU 7", //Riot Archer, Composite Bowman
 		"unitType": "Archery",
-		"movement": 20, //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
+		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 12,
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
                 "uniques": ["Composite Bowman","Never appears as a Barbarian unit","Unbuildable","Only available <for [Riot State - Defensive]>",
-			"[1] additional attacks per turn","Ignores Zone of Control" //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
 		],
 		"promotions": ["Homeland Defenders","Poor Training"],
 		"attackSound": "arrow"
@@ -231,14 +229,13 @@
 	{
 		"name": "UU 8", //Riot Guardian, Spearman
 		"unitType": "Sword",
-		"movement": 20, //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
+		"movement": 2,
 		"strength": 11,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"uniques": [
 			"Spearman","[+15]% Strength <vs [Sword] units>","[+50]% Strength <vs [Mounted] units>","Never appears as a Barbarian unit","Unbuildable","Only available <for [Riot State - Defensive]>",
-			"[1] additional attacks per turn","Ignores Zone of Control" //REVERT THIS VERY IMPORTANT!!!!!!!!!!!!!!!!!!
 		],
 		"promotions": ["Homeland Defenders","Drill I"],
 		"attackSound": "nonmetalhit"
