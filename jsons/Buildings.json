@@ -2,14 +2,14 @@
 	{
 		"name": "Rome Instant Effect", //rename Full Draft
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "Rome",
 		"uniques": [
 			"Limited to [1] per Civilization","[2] free [UU 6] units appear","[2] free [UU 7] units appear","[3] free [UU 8] units appear",	
 			"[+20000]% Strength <for [UU 6] units> <vs [UU 6] units>",
 			"[+20000]% Strength <for [UU 7] units> <vs [UU 7] units>",
 			"[+20000]% Strength <for [UU 8] units> <vs [UU 8] units>",
 			"Will not be displayed in Civilopedia",
-			"Unbuildable","Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
+			"Unsellable","Can be purchased for [0] [Gold] [in all cities]"]
 			},
 	{
 		"name": "Palace",
