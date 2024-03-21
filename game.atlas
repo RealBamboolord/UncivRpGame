@@ -207,6 +207,34 @@ UnitIcons/Ranger
   orig: 203, 205
   offset: 0, 0
   index: -1
+UnitIcons/UU 10
+  rotate: false
+  xy: 936, 776
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 11
+  rotate: false
+  xy: 936, 776
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 12
+  rotate: false
+  xy: 1044, 781
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 13
+  rotate: false
+  xy: 1152, 781
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/UU 2
   rotate: false
   xy: 4, 4
@@ -219,5 +247,26 @@ UnitIcons/UU 4
   xy: 1300, 1516
   size: 202, 201
   orig: 202, 201
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 6
+  rotate: false
+  xy: 1510, 1617
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 7
+  rotate: false
+  xy: 1872, 1759
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/UU 8
+  rotate: false
+  xy: 828, 776
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
