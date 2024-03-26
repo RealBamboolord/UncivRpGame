@@ -314,6 +314,20 @@
 			"Will not be displayed in Civilopedia","Turn this tile into a [Coast] tile"
 			]
 	},
+	{
+		"name": "Landbridge North Creator",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"uniques": [
+			"Will not be displayed in Civilopedia","Turn this tile into a [Plains] tile","Turn this tile into a [Landbridge North] tile"
+			]
+	},
+	{
+		"name": "Landbridge South Creator",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"uniques": [
+			"Will not be displayed in Civilopedia","Turn this tile into a [Plains] tile","Turn this tile into a [Landbridge South] tile"
+			]
+	},
 
 	// Unbuildable improvements
 	{
