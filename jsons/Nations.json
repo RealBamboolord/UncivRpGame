@@ -185,7 +185,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tenacity",
-		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Peaceful - Scientific"],
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Peaceful - Scientific","Gain a free [Courthouse] [in your cities] <on foreign continents>"],
 		"uniqueText": "+20% Strength when fighting units from a Civilization with more Cities than you",
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
