@@ -17,7 +17,7 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Unbuildable","Will not be displayed in Civilopedia","Turn this tile into a [Landbridge North] tile <in [Coast] tiles> <by consuming this unit>",
+			"Unbuildable","Will not be displayed in Civilopedia","Can instantly construct a [Landbridge North Creator] improvement <by consuming this unit>",
 			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
 		],
 	},
@@ -28,7 +28,7 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Unbuildable","Turn this tile into a [Landbridge South] tile <in [Coast] tiles> <by consuming this unit>",
+			"Unbuildable","Can instantly construct a [Landbridge South Creator] improvement <by consuming this unit>",
 			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles","Will not be displayed in Civilopedia"
 		],
 	},
