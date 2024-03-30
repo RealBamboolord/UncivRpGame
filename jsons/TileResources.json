@@ -85,4 +85,12 @@
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+        "name": "Goats",
+        "resourceType": "Luxury",
+        "terrainsCanBeFoundOn": ["Hill"],
+        "gold": 1,
+        "improvement": "Pasture, Customs house",
+        "improvementStats": {"gold": 1, "food": 1},
+    },
 ]
