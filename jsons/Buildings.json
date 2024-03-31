@@ -1,9 +1,17 @@
 [
 	{
 		"name": "Revolution Remover",
+		"uniqueTo": "Spain",
 		"cost": 0,
 		"uniques": ["Remove [Riot State - Defensive] [in all cities]","Remove [Revolution] [in all cities]"]
 	},
+	{
+		"name": "Terraforming Supply",
+		"uniqueTo": "England",
+		"cost": 0,
+		"uniques": ["Free [England Northern Terraformer] appears",
+			"Free [England Southern Terraformer] appears"]
+			},
 	{
 		"name": "Palace",
 		"production": 3,
