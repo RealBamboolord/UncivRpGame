@@ -89,7 +89,7 @@
         "name": "Goats",
         "resourceType": "Luxury",
         "terrainsCanBeFoundOn": ["Hill"],
-        "gold": 1,
+        "gold": 10,
         "improvedBy": ["Pasture", "Customs house"],
 	"improvementStats": {"gold": 1, "food": 1},
         },
