@@ -694,7 +694,7 @@
 		"uniques": [
 			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in all cities]",
 			"[+1 Culture] from [{unimproved} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture] from [{unimproved} {Snow} {Hill}] tiles [in all cities]",
-			"[+1 Culture, +1 Production] from [{Trading post} {Tundra} {Hill}] tiles [in all cities]","[+1 Culture, +1 Production] from [{Trading post} {Snow} {Hill}] tiles [in all cities]",
+			"[+1 Culture, +1 Production] from every [Trading post] <in [{Tundra} {Hill}] tiles>", "[+1 Culture, +1 Production] from every [Trading post] <in [{Snow} {Hill}] tiles>",
 			"[+1 Production] from every [Mountain]","Land units may cross [Mountain] tiles after the first [Great Artist] is earned"
 		]
 			},
