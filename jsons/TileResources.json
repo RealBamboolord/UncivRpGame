@@ -90,7 +90,7 @@
         "resourceType": "Luxury",
         "terrainsCanBeFoundOn": ["Hill"],
         "gold": 1,
-        "improvedBy": ["Pasture", "Customs House"],
+        "improvedBy": ["Pasture", "Customs house"],
 	"improvementStats": {"gold": 1, "food": 1},
         },
 ]
