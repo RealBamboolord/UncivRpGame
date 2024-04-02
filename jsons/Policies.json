@@ -176,7 +176,10 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
+                "[+1 Production] from every [Barracks]",
+                "[+1 Production] from every [Armory]",
+                "[+1 Production] from every [Military Academy]",
                 ],
                 "row": 1,
                 "column": 4
@@ -194,6 +197,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
+		    "[50]% Production when constructing [Walls] buildings [in all cities]",
                     "[+2 Happiness, +2 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
@@ -456,6 +460,8 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
+                    "[Gold] cost of purchasing [{Melee} {Land}] units [-25]%",
+                    "[Culture] cost of purchasing [{Melee} {Land}] units [-25]%",
                     "[4] free [Pikeman] units appear"
                 ],
                 "row": 1,
@@ -473,6 +479,7 @@
             {
                 "name": "Entrepreneurship",
                 "uniques": [
+                    "[+1 Gold,+1 Culture] from every [Customs house]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "Free [Great Merchant] appears"
                 ],
