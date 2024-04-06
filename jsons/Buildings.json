@@ -287,6 +287,19 @@
 			"Only available <for [Peaceful - Diplomatic]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
+	{
+		"name": "Religious Expantionist",
+		"cost": 0,
+		"uniques": [
+			"Religion naturally spreads to cities [1] tiles away",
+			"May buy [Settler] units for [100] [Faith] [in holy cities] at an increasing price ([50])",
+			"[+1 Faith] from every [Temple] <starting from the [Medieval era]>",
+			"[+1 Gold, +1 Culture] from each Trade Route",
+			"[+2 Faith] from every [Embassy]", //Embassy bonus
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Religious Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
 	//Unpeacefuls
 	{
 		"name": "Warmonger",
