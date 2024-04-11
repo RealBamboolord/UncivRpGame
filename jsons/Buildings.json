@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Revolution Remover",
+		"name": "Terraforming charge",
 		"uniqueTo": "Spain",
 		"cost": 0,
-		"uniques": ["Remove [Riot State - Defensive] [in all cities]","Remove [Revolution] [in all cities]"]
+		"uniques": ["Free [Gandalf Instant Terraformer] appears"]
 	},
 	{
 		"name": "Terraforming Supply",
