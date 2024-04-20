@@ -6,13 +6,6 @@
 		"uniques": ["Free [Gandalf Instant Terraformer] appears"]
 	},
 	{
-		"name": "Terraforming Supply",
-		"uniqueTo": "England",
-		"cost": 0,
-		"uniques": ["Free [England Northern Terraformer] appears",
-			"Free [England Southern Terraformer] appears"]
-			},
-	{
 		"name": "Palace",
 		"production": 3,
 		"science": 2,
