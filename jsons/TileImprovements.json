@@ -316,16 +316,16 @@
 	},
 	{
 		"name": "Landbridge North Creator",
-		"terrainsCanBeBuiltOn": ["Coast"],
+		"terrainsCanBeBuiltOn": ["Landbridge North"],
 		"uniques": [
-			"Will not be displayed in Civilopedia","Turn this tile into a [Plains] tile","Turn this tile into a [Landbridge North] tile"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Coast] tile"
 			]
 	},
 	{
 		"name": "Landbridge South Creator",
-		"terrainsCanBeBuiltOn": ["Coast"],
+		"terrainsCanBeBuiltOn": ["Landbridge South"],
 		"uniques": [
-			"Will not be displayed in Civilopedia","Turn this tile into a [Plains] tile","Turn this tile into a [Landbridge South] tile"
+			"Will not be displayed in Civilopedia","Turn this tile into a [Coast] tile"
 			]
 	},
 
