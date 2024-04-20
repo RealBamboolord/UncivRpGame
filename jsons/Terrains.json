@@ -45,7 +45,7 @@
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-			"Will not be displayed in Civilopedia",//"Only [All Road] improvements may be built on this tile"
+			"Will not be displayed in Civilopedia","Only [All Road] improvements may be built on this tile"
     ]
  	},
 	{
@@ -56,7 +56,7 @@
 		"movementCost": 1,
 		"occursOn": ["Plains"],
 		"uniques": [
-			"Will not be displayed in Civilopedia",//"Only [All Road] improvements may be built on this tile"
+			"Will not be displayed in Civilopedia","Only [All Road] improvements may be built on this tile"
     ]
   	},
 ]
