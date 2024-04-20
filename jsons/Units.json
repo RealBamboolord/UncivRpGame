@@ -6,7 +6,7 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Unbuildable","Will not be displayed in Civilopedia","Can instantly construct a [Secret Cavern Opening] improvement <once> <for [1] movement>","Can instantly construct a [Chocolate Inland Coast] improvement <once> <for [1] movement>","Can instantly construct a [Chocolate Coast] improvement <once>  <for [1] movement>",
+			"Unbuildable","Will not be displayed in Civilopedia","Can instantly construct a [Chocolate Inland Coast] improvement <by consuming this unit>",
 			"Can move immediately once bought","No Sight","All tiles cost 1 movement","May travel on Water tiles without embarking","Can pass through impassable tiles"
 		],
 	},
