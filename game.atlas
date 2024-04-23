@@ -6,266 +6,266 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arepa Settlement Plan
   rotate: false
-  xy: 991, 1305
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Charity Center
   rotate: false
-  xy: 780, 1513
+  xy: 4, 919
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 BuildingIcons/Common Workduty
   rotate: false
-  xy: 214, 4
+  xy: 1515, 1839
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Indian Fortification
   rotate: false
-  xy: 433, 233
+  xy: 1041, 1575
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Irrigation System
   rotate: false
-  xy: 612, 1049
+  xy: 612, 1402
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/King Gandalf's Glory
   rotate: false
-  xy: 612, 841
+  xy: 820, 1402
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Knowledge of the Mountains
   rotate: false
-  xy: 820, 1092
+  xy: 1028, 1367
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Lifestock Documentation
   rotate: false
-  xy: 820, 884
+  xy: 524, 1194
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Monument of Glory
   rotate: false
-  xy: 1444, 884
+  xy: 524, 878
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Path of Incandalo
   rotate: false
-  xy: 1028, 1097
+  xy: 524, 986
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Quipu Library
   rotate: false
-  xy: 1028, 889
+  xy: 732, 1194
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sailors of Pride
   rotate: false
-  xy: 1236, 1097
+  xy: 940, 1159
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sculptors Crafting Works
   rotate: false
-  xy: 1236, 889
+  xy: 940, 951
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sea Warlord
   rotate: false
-  xy: 1552, 884
+  xy: 500, 770
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seehaus
   rotate: false
-  xy: 1407, 1308
+  xy: 1148, 1159
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Underground Workforce
   rotate: false
-  xy: 1444, 1100
+  xy: 1148, 951
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Georg
   rotate: false
-  xy: 4, 649
+  xy: 4, 1439
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
-LeaderIcons/Inca Arepa
+LeaderIcons/Inca Marako
   rotate: false
-  xy: 4, 1257
-  size: 768, 768
-  orig: 768, 768
+  xy: 4, 633
+  size: 278, 278
+  orig: 278, 278
   offset: 0, 0
   index: -1
 LeaderIcons/King Canute
   rotate: false
-  xy: 1608, 1769
+  xy: 1041, 1783
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Macron 1st
   rotate: false
-  xy: 1872, 1867
+  xy: 290, 545
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 NationIcons/Ethiopia
   rotate: false
-  xy: 612, 733
+  xy: 1931, 1939
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 4, 212
+  xy: 612, 1610
   size: 421, 429
   orig: 421, 429
   offset: 0, 0
   index: -1
 NationIcons/Inca
   rotate: false
-  xy: 1300, 1725
-  size: 300, 300
-  orig: 300, 300
+  xy: 1723, 1839
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Russia
   rotate: false
-  xy: 1552, 992
+  xy: 740, 878
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Humanism
   rotate: false
-  xy: 1444, 992
+  xy: 1931, 1831
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 720, 733
+  xy: 632, 878
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ignis General
   rotate: false
-  xy: 433, 441
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Raider Ship
   rotate: false
-  xy: 1199, 1305
+  xy: 732, 986
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranger
   rotate: false
-  xy: 780, 1300
+  xy: 4, 420
   size: 203, 205
   orig: 203, 205
   offset: 0, 0
   index: -1
 UnitIcons/UU 10
   rotate: false
-  xy: 936, 776
+  xy: 608, 662
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 11
   rotate: false
-  xy: 936, 776
+  xy: 608, 662
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 12
   rotate: false
-  xy: 1044, 781
+  xy: 716, 662
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 13
   rotate: false
-  xy: 1152, 781
+  xy: 456, 554
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 2
   rotate: false
-  xy: 4, 4
+  xy: 290, 711
   size: 202, 200
   orig: 202, 200
   offset: 0, 0
   index: -1
 UnitIcons/UU 4
   rotate: false
-  xy: 1300, 1516
+  xy: 1305, 1838
   size: 202, 201
   orig: 202, 201
   offset: 0, 0
   index: -1
 UnitIcons/UU 6
   rotate: false
-  xy: 1510, 1617
+  xy: 608, 770
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 7
   rotate: false
-  xy: 1872, 1759
+  xy: 716, 770
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 8
   rotate: false
-  xy: 828, 776
+  xy: 500, 662
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

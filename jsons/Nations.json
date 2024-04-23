@@ -311,7 +311,7 @@
     },
 	{
 		"name": "Inca",
-		"leaderName": "Inca Arepa",
+		"leaderName": "Inca Marako",
 		"adjective": ["Incan"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
@@ -319,10 +319,10 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
+        "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Andean kigndom. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
-		"introduction": "How are you? You stand before John Inca Arepa.",
+		"introduction": "How are you? You stand before the diplomat of our Inca Sapa 'Marako'.",
 
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -337,14 +337,14 @@
 		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
 		"tradeRequest": "The Incan people offer this fair trade.",
 
-        "outerColor": [255,184,33],
-        "innerColor": [3,115,86],
+        "outerColor": [255, 167, 0],
+        "innerColor": [0, 145, 110],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Pachamama",
 		"uniqueName": "Great Andean Road",
 		"uniques": ["Units ignore terrain costs when moving into any tile with Hills","[-50]% maintenance on road & railroads","No Maintenance costs for improvements in [Hill] tiles","Traditional Kingdom"],
 		"uniqueText": "Units ignore terrain costs when moving into any tile with Hills\n-50% maintenance on road & railroads\nNo Maintenance costs for improvements in Hill tiles",
-		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
+		"cities": ["Cusco","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
 			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
 			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"],
