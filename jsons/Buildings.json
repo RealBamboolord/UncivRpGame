@@ -742,18 +742,25 @@
 			]
 			},
 	{
-		"name": "Unique Choice27",
+		"name": "Unique Choice27", //rename to Purple Obsidian Trade
 		"cost": 0,
+		"culture": 1,
+		"uniqueTo": "Inca",
+		"requiredBuilding": "Unique Choice5",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Provides [2] [Purple Obsidian]","Consumes [1] [Incense]"]
 			},
 	{
-		"name": "Unique Choice28",
-		"cost": 0,
+		"name": "Unique Choice28", //rename to Purple Obsidian Forge
+		"cost": 100,
+		"gold": 2,
+		"uniqueTo": "Inca",
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Unique Choice5",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Provides [1] [Obsidian Necklace]","Consumes [1] [Purple Obsidian]"
+			],
+		"requiredTech": "Metal Casting"
 			},
 	{
 		"name": "Unique Choice29",
