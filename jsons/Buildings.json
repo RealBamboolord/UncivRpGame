@@ -758,7 +758,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"requiredBuilding": "Unique Choice5",
 		"uniques": [
-			"Will not be displayed in Civilopedia","Provides [1] [Obsidian Necklace]","Consumes [1] [Purple Obsidian]"
+			"Will not be displayed in Civilopedia","Provides [1] [Obsidian Necklace]","Provides [1] [Obsidian Necklace] <after discovering [Metallurgy]>","Consumes [1] [Purple Obsidian]"
 			],
 		"requiredTech": "Metal Casting"
 			},
