@@ -51,6 +51,16 @@
 		"uniques": ["[+1 Food] from every [Merchant]","[+1 Food, +1 Culture] from every [Customs house]","Excluded from map editor","Will not be displayed in Civilopedia"]
   }
   {
+		"name": "Purple Obsidian",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
+		"name": "Obsidian Necklace",
+		"resourceType": "Luxury",
+		"uniques": ["Excluded from map editor","Will not be displayed in Civilopedia"]
+  }
+  {
 		"name": "Tactical Croissant",
 		"resourceType": "Strategic",
 		"revealedBy": "Currency",
