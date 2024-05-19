@@ -54,5 +54,9 @@
 		"name": "Attack Block",
 		"uniques": ["Cannot attack","Unable to capture cities"]
 	}
+	{
+		"name": "Cavern Passage",
+		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles <in [your] tiles>"]
+	}
 	
 ]
