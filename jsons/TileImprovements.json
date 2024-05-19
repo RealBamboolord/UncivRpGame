@@ -324,7 +324,7 @@
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers"],
+		"uniques": ["Unpillagable", "Unbuildable","Turn this tile into a [Coast] tile", "Will be replaced by automated workers"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
