@@ -765,8 +765,9 @@
 	{
 		"name": "Unique Choice29",
 		"cost": 0,
+		"uniqueTo": "Inca",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
+			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in capital]", "Comment [Pachamama answers]","[+3] Movement <for [{Military} {Land}] units> <for [8] turns>","[+2] Movement <for [{Military} {Water}] units> <for [8] turns>",
 			"Unbuildable"]
 			}
 	{
