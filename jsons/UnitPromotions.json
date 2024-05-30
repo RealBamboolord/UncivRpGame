@@ -25,6 +25,10 @@
 		"uniques": ["Ignores Zone of Control"]
 	},
 	{
+		"name": "Can pass through impassable tiles",
+		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles"]
+	},
+	{
 		"name": "Homeland Defenders",
 		"uniques": ["[+20]% Strength <when attacking> <in [your] tiles>"]
 	},
