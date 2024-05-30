@@ -304,7 +304,7 @@
 		"innerColor": [255,168,168],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Seven Cities of Gold",
-		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]","Traditional Kingdom","Enables embarkation for land units <starting from the [Ancient era]>","Enables [Trireme] units to enter ocean tiles <after discovering [Optics]>","Enables [Settler] units to enter ocean tiles <after discovering [Optics]>"],
+		"uniques": ["[Water] units gain the [Can pass through impassable tiles] promotion","Land units may cross [Mountain Overlay] tiles after the first [Great Person] is earned","100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]","Traditional Kingdom","Enables embarkation for land units <starting from the [Ancient era]>","Enables [Trireme] units to enter ocean tiles <after discovering [Optics]>","Enables [Settler] units to enter ocean tiles <after discovering [Optics]>"],
 		"uniqueText": "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)\n+1 [Happiness] for every known Natural Wonder\n+100% Yield from every Natural Wonder",
 		"cities": ["Victorialand","Revolutionville"],
         "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
