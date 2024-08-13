@@ -6,8 +6,20 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Unbuildable","Can move immediately once bought",
+			"Unbuildable","Can move immediately once bought","Cannot be purchased",
 			"[Water] units gain the [Ignore terrain cost] promotion <by consuming this unit>"
+			],
+	},
+	{
+		"name": "RRV Spanish Expander",
+		"unitType": "Civilian",
+		"uniqueTo": "Spain",
+		"movement": 10,
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Can move immediately once bought","Cannot be purchased",
+			"Can instantly construct a [Temporary Takeover Improvement] improvement <[2] times>",
+			"Can instantly construct a [Quarry] improvement <once> <by consuming this unit>"
 			],
 	},
 	{
