@@ -1,1 +1,8 @@
-{"constants":{"maxXPfromBarbarians":60},"modUrl":"https://github.com/RealBamboolord/UncivRpGame","defaultBranch":"main","author":"RealBamboolord","lastUpdated":"2024-04-20T14:58:55Z","modSize":6706,"topics":["unciv-mod"],"uniques":["Can trade civilization introductions for [100] Gold"]}
+{
+  "constants":{
+    "maxXPfromBarbarians":60,
+    "minimalCityDistance": 0,
+        },
+  "modUrl":"https://github.com/RealBamboolord/UncivRpGame","defaultBranch":"main","author":"RealBamboolord","lastUpdated":"2024-04-20T14:58:55Z","modSize":6706,"topics":["unciv-mod"],
+  "uniques":["Can trade civilization introductions for [100] Gold"]
+}
