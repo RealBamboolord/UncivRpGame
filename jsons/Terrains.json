@@ -16,7 +16,7 @@
 		"type": "Water",
 		"food": 2,
 		"gold": 1,
-		"movementCost": 2,
+		"movementCost": 20,
 		"defenceBonus": 0.25,
 		"RGB": [102, 102, 102],
 		"uniques": [
@@ -28,8 +28,7 @@
 		"type": "TerrainFeature",
 		"production": 2,
     		"gold": 1,
-		"movementCost": 2,
-		"impassable": true,
+		"movementCost": 20,
 		"occursOn": ["Secret Cavern"],
 		"uniques": [
 			"Will not be displayed in Civilopedia",
