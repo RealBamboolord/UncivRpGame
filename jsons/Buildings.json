@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Terraforming charge",
+		"name": "Promotion charge",
 		"uniqueTo": "Spain",
 		"cost": 0,
-		"uniques": ["Free [Gandalf Instant Terraformer] appears"]
+		"uniques": ["Free [Gandalf Instant Promoter] appears"]
 	},
 	{
 		"name": "Palace",
