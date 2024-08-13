@@ -23,6 +23,18 @@
 			],
 	},
 	{
+		"name": "Spanish RRV Founder",
+		"unitType": "Civilian",
+		"uniqueTo": "Rome",
+		"movement": 10,
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Can move immediately once bought","Cannot be purchased", "Ignores terrain cost",
+			"Can instantly construct a [Temporary Takeover Improvement] improvement <[2] times>",
+			"Can instantly construct a [Quarry] improvement <once> <by consuming this unit>"
+			],
+	},
+	{
 		"name": "Mehal Sefari",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
