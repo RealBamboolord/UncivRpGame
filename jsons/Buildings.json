@@ -770,7 +770,7 @@
 			"Will not be displayed in Civilopedia",
 			"Will not be displayed in Civilopedia","Can be purchased for [0] [Gold] [in capital]", "Comment [Pachamama answers]","[+3] Movement <for [{Military} {Land}] units> <for [8] turns>","[+2] Movement <for [{Military} {Water}] units> <for [8] turns>",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice30", //rename to Iron Obsidian Trade
 		"cost": 0,
@@ -782,136 +782,141 @@
 			"Will not be displayed in Civilopedia","Consumes [2] [Iron]"]
 			},
 	{
-		"name": "Unique Choice31",
+		"name": "Unique Choice31", //RRV Split Rome side
 		"cost": 0,
+		"happiness": 1,
+		"uniqueTo": "Rome",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			}
+			"Unbuildable","Will not be displayed in Civilopedia", "Free [Spanish RRV Founder] appears", "Gain a free [Courthouse] [in this city]", "
+			"[-4] population [in this city]", "Discover [Theology]", "Limited to [1] per Civilization", "Unsellable", "Can be purchased for [100] [Gold] [in annexed cities]"
+		]
+			},
 	{
-		"name": "Unique Choice32",
+		"name": "Unique Choice32", //RRV Split spanish side
+		"uniqueTo": "Spain",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
-		"name": "Unique Choice33",
+		"name": "Unique Choice33", //Free Courthouse in Midway There
 		"cost": 0,
+		"uniqueTo": "Rome",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			}
+			"Will not be displayed in Civilopedia","Limited to [1] per Civilization", "Gain a free [Courthouse] [in this city]", "Comment [Free Courthouse in Midway There because Octavius is goated]", "Only available <in [Annexed] cities>", "Unsellable"
+			]
+			},
 	{
 		"name": "Unique Choice34",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice35",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice36",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice37",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice38",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice39",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice40",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice41",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice42",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice43",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice44",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice45",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice46",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice47",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice48",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 	{
 		"name": "Unique Choice49",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
-			}
+			},
 ]
