@@ -787,7 +787,7 @@
 		"happiness": 1,
 		"uniqueTo": "Rome",
 		"uniques": [
-			"Unbuildable","Will not be displayed in Civilopedia", "Free [Spanish RRV Founder] appears", "Gain a free [Courthouse] [in this city]", "
+			"Unbuildable","Will not be displayed in Civilopedia", "Free [Spanish RRV Founder] appears", "Gain a free [Courthouse] [in this city]",
 			"[-4] population [in this city]", "Discover [Theology]", "Limited to [1] per Civilization", "Unsellable", "Can be purchased for [100] [Gold] [in annexed cities]"
 		]
 			},
@@ -795,9 +795,16 @@
 		"name": "Unique Choice32", //RRV Split spanish side
 		"uniqueTo": "Spain",
 		"cost": 0,
+		"maintenance": 3,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Will not be displayed in Civilopedia","Free [RRV Spanish Expander] appears",
+			"Gain a free [Courthouse] [in this city]",
+			"Gain a free [Monument] [in this city]",
+			"Gain a free [Granary] [in this city]",
+			"Gain a free [Library] [in this city]",
+			"Gain a free [Walls] [in this city]",
+			"Only available <in [Annexed] cities>","Limited to [1] per Civilization",
+		]
 			},
 	{
 		"name": "Unique Choice33", //Free Courthouse in Midway There
