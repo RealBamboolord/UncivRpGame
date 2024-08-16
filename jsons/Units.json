@@ -30,8 +30,7 @@
 		"cost": 1,
 		"uniques": [
 			"Unbuildable","Can move immediately once bought","Cannot be purchased", "Ignores terrain cost",
-			"Can instantly construct a [Temporary Takeover Improvement] improvement <[2] times>",
-			"Can instantly construct a [Quarry] improvement <once> <by consuming this unit>"
+			"Founds a new city <by consuming this unit>"
 			],
 	},
 	{
