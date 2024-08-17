@@ -284,6 +284,48 @@
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 	{
+		"name": "Wild tribes",
+		"leaderName": "Chief Liaf",
+		"adjective": ["wild ones"],
+		"outerColor": [0,0,0],
+        "innerColor": [165,63,63],
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Chief Liaf of all tribes",
+		"favoredReligion": "Tengriism",
+	  
+		"startIntroPart1": "Not to be played",
+		"startIntroPart2": "Not to be played",
+ 
+		"introduction": "Hi weak one ! What you see here is but a fraction of our forces !",
+		"declaringWar": "Be ready to be annhilated, your cities taken, your gold pillaged and your civilians enslaved !",
+     	"attacked": "You are not attacking us, we are attacking you, don't be mistaken !",
+		"afterPeace": "This shouldn't happen, we are a nation forever at war !",
+		"defeated": "This is the end of the dark ages, no more will wild freedom roams this land, now tamed by the forces of order",
+
+		"neutralHello": "Be ready for our fury, you, your wives and your children won't be spared.",
+		"hateHello": "Be ready for our fury, you, your wives and your children won't be spared.",
+
+		"tradeRequest": "Trade ? Are you joking ? But you are welcome to deliver your tribute.",
+		
+		"uniqueName": "Barbarians",
+		"uniques": [
+			"[-75]% maintenance costs <for [Land] units>",
+			"[+25]% Strength <for [All] units> <vs cities> <when attacking>",
+			"[+25]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
+			"[+50]% Strength for cities <when defending>",
+			"[+50]% Production when constructing [Military] units [in all cities]",
+			"Cannot build [Settler] units <Suppress warning [validationWarning]>",
+			"Free [Shaman] appears <upon founding a city>",
+			"Free [Warrior] appears <upon founding a city>",
+			"Free [Archer] appears <upon founding a city>",
+			"Excluded from map editor",
+		],
+		"style": "Barbarian",
+		"cities": ["Barbaria"]
+  },
+	{
 		"name": "Spain",
 		"leaderName": "Regina Imarsa",
 		"adjective": ["Spanish"],
