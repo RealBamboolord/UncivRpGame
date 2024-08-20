@@ -163,6 +163,22 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Shaman",
+		"unitType": "Missile",
+		"uniqueTo": "Wild tribes",
+		"movement": 1,
+		"strength": 999,
+		"range": 0,
+		"uniques": [
+			"Cannot move",
+			"Will not be displayed in Civilopedia",
+			"Comment [Used to trick the AI into attacking]",
+			"Cannot attack",
+			"Unbuildable",
+			"Uncapturable",
+			],
+	},
+	{
 		"name": "UU 3", //Spirit Blessed Archer
 		"unitType": "Archery",
 		"movement": 2,
