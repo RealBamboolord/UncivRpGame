@@ -321,6 +321,7 @@
 			"Free [Warrior] appears <upon founding a city>",
 			"Free [Archer] appears <upon founding a city>",
 			"Excluded from map editor",
+			"Will not be displayed in Civilopedia","Barbarian"
 		],
 		"style": "Barbarian",
 		"cities": ["Barbaria"]
