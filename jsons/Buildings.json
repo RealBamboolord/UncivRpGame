@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Free population",
+		"uniqueTo": "Spain",
+		"cost": 0,
+		"uniques": ["[+3] population [in this city]"]
+	},
+	{
 		"name": "Promotion charge",
 		"uniqueTo": "Spain",
 		"cost": 0,
