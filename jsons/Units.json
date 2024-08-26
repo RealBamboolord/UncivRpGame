@@ -6,31 +6,8 @@
 		"movement": 10,
 		"cost": 1,
 		"uniques": [
-			"Unbuildable","Can move immediately once bought","Cannot be purchased",
-			"[Water] units gain the [Ignore terrain cost] promotion <by consuming this unit>"
-			],
-	},
-	{
-		"name": "RRV Spanish Expander",
-		"unitType": "Civilian",
-		"uniqueTo": "Spain",
-		"movement": 10,
-		"cost": 1,
-		"uniques": [
-			"Unbuildable","Can move immediately once bought","Cannot be purchased",
-			"Can instantly construct a [Temporary Takeover Improvement] improvement <[2] times>",
-			"Can instantly construct a [Quarry] improvement <once> <by consuming this unit>"
-			],
-	},
-	{
-		"name": "Spanish RRV Founder",
-		"unitType": "Civilian",
-		"uniqueTo": "Rome",
-		"movement": 10,
-		"cost": 1,
-		"uniques": [
-			"Unbuildable","Can move immediately once bought","Cannot be purchased", "Ignores terrain cost",
-			"Founds a new city <by consuming this unit>"
+			"Will not be displayed in Civilopedia","Unbuildable","Can move immediately once bought","Cannot be purchased",
+			"[Water] units gain the [Ignore terrain cost] promotion <by consuming this unit>","[Settler] units gain the [Ignore terrain cost] promotion <by consuming this unit>"
 			],
 	},
 	{
