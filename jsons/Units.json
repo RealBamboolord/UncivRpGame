@@ -7,7 +7,7 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia","Unbuildable","Can move immediately once bought","Cannot be purchased",
-			"[Water] units gain the [Ignore terrain cost] promotion <by consuming this unit>","[Settler] units gain the [Ignore terrain cost] promotion <by consuming this unit>"
+			"[Water] units gain the [Ignore terrain cost] promotion <by consuming this unit>","[Settler] units gain the [Can pass through impassable tiles] promotion <by consuming this unit>"
 			],
 	},
 	{
