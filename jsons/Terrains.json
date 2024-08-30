@@ -20,7 +20,7 @@
 		"production": 2,
 		"movementCost": 3,
 		"occursOn": ["Mountain"],
-		"uniques": ["Rough terrain",]
+		"uniques": ["Rough terrain"]
 	},
 	{
 		"name": "Secret Cavern",
