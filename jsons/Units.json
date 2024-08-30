@@ -103,7 +103,7 @@
 		"cost": 110,
 		"requiredTech": "Education",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","Founds a new city <on foreign continents>"],
+		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","Founds a new city <on foreign continents> <for [Human player]>"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
