@@ -26,7 +26,7 @@
 	},
 	{
 		"name": "Can pass through impassable tiles",
-		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles"]
+		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles","Turn this tile into a [Mountain Plateau] tile <for [1] movement> <once>"]
 	},
 	{
 		"name": "Homeland Defenders",
