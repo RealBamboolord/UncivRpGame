@@ -97,7 +97,7 @@ BuildingIcons/Sculptors Crafting Works
   index: -1
 BuildingIcons/Sea Warlord
   rotate: false
-  xy: 956, 1003
+  xy: 1396, 1333
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -172,306 +172,20 @@ NationIcons/Inca
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Russia
-  rotate: false
-  xy: 848, 1003
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Wild tribes
-  rotate: false
-  xy: 1132, 1649
-  size: 400, 390
-  orig: 400, 390
-  offset: 0, 0
-  index: -1
-ReligionIcons/Humanism
-  rotate: false
-  xy: 170, 62
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Pachamama
+NationIcons/Norse England
   rotate: false
   xy: 740, 1003
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ignis General
-  rotate: false
-  xy: 1606, 1345
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Raider Ship
-  rotate: false
-  xy: 1148, 1177
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Ranger
-  rotate: false
-  xy: 1826, 1834
-  size: 203, 205
-  orig: 203, 205
-  offset: 0, 0
-  index: -1
-UnitIcons/Shaman
-  rotate: false
-  xy: 612, 1527
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 10
-  rotate: false
-  xy: 1356, 1009
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 11
-  rotate: false
-  xy: 1356, 1009
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 12
-  rotate: false
-  xy: 1464, 1225
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 13
-  rotate: false
-  xy: 1464, 1117
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 2
-  rotate: false
-  xy: 1396, 1441
-  size: 202, 200
-  orig: 202, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 4
-  rotate: false
-  xy: 316, 273
-  size: 202, 201
-  orig: 202, 201
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 6
-  rotate: false
-  xy: 1396, 1333
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 7
-  rotate: false
-  xy: 1356, 1225
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/UU 8
-  rotate: false
-  xy: 1356, 1117
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
-game.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-BuildingIcons/Arepa Settlement Plan
-  rotate: false
-  xy: 316, 65
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Charity Center
-  rotate: false
-  xy: 4, 919
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
-BuildingIcons/Common Workduty
-  rotate: false
-  xy: 1606, 1553
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Indian Fortification
-  rotate: false
-  xy: 433, 503
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Irrigation System
-  rotate: false
-  xy: 526, 295
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/King Gandalf's Glory
-  rotate: false
-  xy: 612, 1319
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Knowledge of the Mountains
-  rotate: false
-  xy: 820, 1319
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Lifestock Documentation
-  rotate: false
-  xy: 524, 1111
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Monument of Glory
-  rotate: false
-  xy: 632, 1003
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Path of Incandalo
-  rotate: false
-  xy: 732, 1111
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Quipu Library
-  rotate: false
-  xy: 940, 1111
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Sailors of Pride
-  rotate: false
-  xy: 1826, 1626
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Sculptors Crafting Works
-  rotate: false
-  xy: 1814, 1418
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Sea Warlord
+NationIcons/Russia
   rotate: false
   xy: 956, 1003
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Seehaus
-  rotate: false
-  xy: 1814, 1210
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-BuildingIcons/Underground Workforce
-  rotate: false
-  xy: 1148, 969
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-LeaderIcons/Chief Liaf
-  rotate: false
-  xy: 4, 170
-  size: 304, 304
-  orig: 304, 304
-  offset: 0, 0
-  index: -1
-LeaderIcons/Georg
-  rotate: false
-  xy: 4, 1439
-  size: 600, 600
-  orig: 600, 600
-  offset: 0, 0
-  index: -1
-LeaderIcons/Inca Marako
-  rotate: false
-  xy: 1540, 1761
-  size: 278, 278
-  orig: 278, 278
-  offset: 0, 0
-  index: -1
-LeaderIcons/King Canute
-  rotate: false
-  xy: 1132, 1385
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-LeaderIcons/Macron 1st
-  rotate: false
-  xy: 4, 4
-  size: 158, 158
-  orig: 158, 158
-  offset: 0, 0
-  index: -1
-NationIcons/Ethiopia
-  rotate: false
-  xy: 524, 1003
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Germany
-  rotate: false
-  xy: 4, 482
-  size: 421, 429
-  orig: 421, 429
-  offset: 0, 0
-  index: -1
-NationIcons/Inca
-  rotate: false
-  xy: 433, 711
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-NationIcons/Russia
-  rotate: false
-  xy: 848, 1003
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Wild tribes
   rotate: false
   xy: 1132, 1649
@@ -488,7 +202,7 @@ ReligionIcons/Humanism
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 740, 1003
+  xy: 848, 1003
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -523,28 +237,28 @@ UnitIcons/Shaman
   index: -1
 UnitIcons/UU 10
   rotate: false
-  xy: 1356, 1009
+  xy: 1464, 1225
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 11
   rotate: false
-  xy: 1356, 1009
+  xy: 1464, 1225
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 12
   rotate: false
-  xy: 1464, 1225
+  xy: 1464, 1117
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 13
   rotate: false
-  xy: 1464, 1117
+  xy: 1464, 1009
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -565,21 +279,21 @@ UnitIcons/UU 4
   index: -1
 UnitIcons/UU 6
   rotate: false
-  xy: 1396, 1333
+  xy: 1356, 1225
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 7
   rotate: false
-  xy: 1356, 1225
+  xy: 1356, 1117
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/UU 8
   rotate: false
-  xy: 1356, 1117
+  xy: 1356, 1009
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
