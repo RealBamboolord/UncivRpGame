@@ -742,6 +742,7 @@
 			},
 	{
 		"name": "Unique Choice35",
+		"replaces": "Palace",
 		"production": 5,
 		"science": 3,
 		"gold": 3,
