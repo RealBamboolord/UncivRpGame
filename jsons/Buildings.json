@@ -6,6 +6,12 @@
 		"uniques": ["Will not be displayed in Civilopedia","Free [Gandalf Instant Promoter] appears"]
 	},
 	{
+		"name": "palace renewer",
+		"uniqueTo": "Wild tribes",
+		"cost": 0,
+		"uniques": ["Will not be displayed in Civilopedia","Remove [Palace] [in all cities]"]
+	},
+	{
 		"name": "Palace",
 		"production": 3,
 		"science": 3,
@@ -730,11 +736,20 @@
 			},
 	{
 		"name": "Unique Choice35",
-		"cost": 0,
+		"production": 5,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 1,
+		"cost": 50,
+		"uniqueTo": "Wild tribes",
+		"isNationalWonder": true,
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+			"Limited to [1] per Civilization","Can be purchased with [Gold] [in all non-occupied cities]","Indicates the capital city",
+			"[-50]% Unhappiness from [Population] [in annexed cities]","[-50]% Unhappiness from [Population] [in puppeted cities]",
+			"Provides [4] [Iron]","Provides [8] [Horses]"
+				]
+	},
 	{
 		"name": "Unique Choice36",
 		"cost": 0,
@@ -828,6 +843,146 @@
 			},
 	{
 		"name": "Unique Choice49",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice50",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice51",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice52",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice53",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice54",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice55",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice56",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice57",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice58",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice59",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice60",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice61",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice62",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice63",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice64",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice65",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice66",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice67",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice68",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unbuildable"]
+			},
+	{
+		"name": "Unique Choice69",
 		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
