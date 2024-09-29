@@ -294,11 +294,18 @@
 		"shortcutKey": "F"
 	},
 	{
-		"name": "UI 1",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 7,
+		"name": "UI 1", //Sea Fort
+		"uniqueTo": "India",
+		"terrainsCanBeBuiltOn": ["Coast","Atoll"],
+		"turnsToBuild": 8,
 		"techRequired": "Agriculture",
-		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Gives a defensive bonus of [50]%",
+			"[+1 Culture] <after discovering [Refrigeration]>",
+			"Only available <in tiles adjacent to [Land] tiles> <in tiles not adjacent to [UI 1] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		],
 	},
 	{
 		"name": "UI 2",
