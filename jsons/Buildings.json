@@ -759,11 +759,19 @@
 	},
 	{
 		"name": "Unique Choice36",
-		"cost": 0,
+		"replaces": "Castle",
+		"uniqueTo": "England",
+		"cityStrength": 3,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+			"Will not be displayed in Civilopedia","Destroyed when the city is captured",
+			"[+1 Culture, +1 Science] from every specialist [in this city]",
+			"Comment [Grants insight on the unique choices done by Nations you have an Embassy with at least 100 turns ago. The Embassy has be in the same city as this building.]"
+		]
+	},
 	{
 		"name": "Unique Choice37",
 		"cost": 0,
