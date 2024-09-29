@@ -239,15 +239,6 @@
 			"Removes removable features when built",
 		]
 	},
-	{
-		"name": "Temporary Takeover Improvement",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": [
-			"Can be built just outside your borders",
-        		"Constructing it will take over the tiles around it and assign them to your closest city",
-			"Removes removable features when built",
-		]
-	},
 
 	//Civilization unique improvements
 	{
@@ -302,6 +293,78 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},
+	{
+		"name": "UI 1",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 2",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 3",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 4",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 5",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 6",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 7",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 8",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 9",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
+		"name": "UI 10",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Food] <after discovering [Agriculture]>","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	
+	//Other stuff
 	{
 		"name": "Secret Cavern Opening",
 		"terrainsCanBeBuiltOn": ["Mountain"],
