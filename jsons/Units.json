@@ -302,15 +302,15 @@
 		"movement": 2
 	},
 	{
-		"name": "UU 14",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"name": "UU 14", //Construction Boat
+		"replaces": "Work Boats",
+		"unitType": "Civilian Water",
+		"uniqueTo": "India",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Can build [UI 1] improvements on tiles",
+            "Uncapturable", "Automation is a primary action"]
 	},
 	{
 		"name": "UU 15",
