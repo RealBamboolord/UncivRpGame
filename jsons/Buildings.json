@@ -104,7 +104,7 @@
 		"uniqueTo": "India",
 		"cost": 1,
 		"isNationalWonder": true,
-		"uniques": ["Will not be displayed in Civilopedia","[+1 Culture, +1 Production] from every [Fort]","[+1 Gold, +1 Production] from every [Walls]","[+2 Gold, +2 Production] from every [Great Wall]","[+2 Culture] from every [Castle]","[+1 Gold, +1 Culture] from every [Fort] <after discovering [Flight]>",],
+		"uniques": ["Will not be displayed in Civilopedia","[+1 Culture, +1 Production] from every [Fort]","[+1 Production] from every [UI 1]","[+1 Gold, +1 Production] from every [Walls]","[+2 Gold, +2 Production] from every [Great Wall]","[+2 Culture] from every [Castle]","[+1 Gold, +1 Culture] from every [Fort] <after discovering [Flight]>",],
 	},
 	{
 		"name": "Underground Workforce",
