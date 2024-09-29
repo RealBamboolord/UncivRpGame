@@ -1,5 +1,5 @@
 [
-
+	//policies/UBs/Beliefs/General
 	{
 		"name": "Knightly Order",
 		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <once>"]
@@ -7,10 +7,6 @@
 	{
 		"name": "Naval Domination",
 		"uniques": ["Will not be displayed in Civilopedia","[+15]% Strength <in [Ocean] tiles>"]
-	},
-	{
-		"name": "Scourge of the North",
-		"uniques": ["Will not be displayed in Civilopedia","[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
 	},
 	{
         	"name": "Unexpected",
@@ -28,10 +24,33 @@
 		"name": "Can pass through impassable tiles",
 		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles","Turn this tile into a [Mountain Plateau] tile <for [1] movement> <once>"]
 	},
+	//Unique to units
+	{
+		"name": "Pachamama's Guidance",
+		"uniques": ["Ignores Zone of Control","[+15]% Strength <when fighting in [Foreign Land] tiles>","[This Unit] gains the [Drill to Shock] status for [1] turn(s) <for units with [Drill I]> <for all movement>","[This Unit] gains the [Shock to Drill] status for [1] turn(s) <for units with [Shock I]> <for all movement>",]
+	},
+	{
+		"name": "Drill to Shock",
+		"uniques": ["[This Unit] gains the [Shock I] promotion <upon turn end> <for units with [Drill I]>","[This Unit] loses the [Drill I] promotion <upon turn end>","[This Unit] gains the [Shock II] promotion <upon turn end> <for units with [Drill II]>","[This Unit] loses the [Drill II] promotion <upon turn end>","[This Unit] gains the [Shock III] promotion <upon turn end> <for units with [Drill III]>","[This Unit] loses the [Drill III] promotion <upon turn end>",]
+	},
+	{
+		"name": "Shock to Drill",
+		"uniques": [
+			"[This Unit] gains the [Drill I] promotion <upon turn end> <for units with [Shock I]>","[This Unit] loses the [Shock I] promotion <upon turn end>",
+			"[This Unit] gains the [Drill II] promotion <upon turn end> <for units with [Shock II]>","[This Unit] loses the [Shock II] promotion <upon turn end>",
+			"[This Unit] gains the [Drill III] promotion <upon turn end> <for units with [Shock III]>","[This Unit] loses the [Shock III] promotion <upon turn end>"
+		]
+	},
+	{
+		"name": "Scourge of the North",
+		"uniques": ["Will not be displayed in Civilopedia","[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+	},
 	{
 		"name": "Homeland Defenders",
 		"uniques": ["[+20]% Strength <when attacking> <in [your] tiles>"]
 	},
+
+	//Others
 	{
 		"name": "Guerilla",
 		"uniques": ["[+50]% Strength <when attacking> <when above [99] HP>","Invisible to non-adjacent units"],
