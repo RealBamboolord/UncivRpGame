@@ -315,12 +315,13 @@
 	{
 		"name": "UU 15",
 		"unitType": "Scout",
+		"uniqueTo": "Inca",
 		"movement": 2,
 		"strength": 16,
 		"cost": 110,
 		"requiredTech": "Education",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"uniques": ["[+25]% to Flank Attack bonuses","Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	},
 	{
