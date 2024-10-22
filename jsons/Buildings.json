@@ -773,18 +773,37 @@
 		]
 	},
 	{
-		"name": "Unique Choice37",
-		"cost": 0,
+		"name": "Unique Choice37", //Academy of Architects
+		"replaces": "University",
+		"uniqueTo": "Rome",
+		"maintenance": 2,
+		"cost": 120,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2,"Engineer": 1},
+		"requiredBuilding": "Library",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+			"Unsellable",
+			"[+2 Science] from [Jungle] tiles [in this city]",
+			"[+50]% Production when constructing [Worker] units [in this city]",
+			"[+15]% Production when constructing [Siege] units [in this city]",
+			"[+2 Production] from [Manufactory] tiles [in this city]"
+		],
+		"requiredTech": "Education"
+	},
 	{
 		"name": "Unique Choice38",
 		"cost": 0,
+		"uniqueTo": "Rome",
+		"requiredBuilding": "University",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Instantly provides [1] [Architecture Count]",
+			"Limited to [5] per Civilization",
+			"Unsellable",
+			"Creates a [Manufactory] improvement on a specific tile"
+			]
 			},
 	{
 		"name": "Unique Choice39",
