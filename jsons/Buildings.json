@@ -826,12 +826,18 @@
 		],
 	},
 	{
-		"name": "Unique Choice40",
-		"cost": 0,
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+		"name": "Unique Choice40", //Zulia Global University
+		"replaces": "Oxford University",
+		"uniqueTo": "Russia",
+		"cost": 400,
+		"science": 1,
+		"culture": 2,
+		"faith" : 2,
+		"isNationalWonder": true,
+		"requiredBuilding": "University",
+		"uniques": ["Only available <in [Capital] cities>", "Allied City-States provide [Culture] equal to [20]% of what they produce for themselves","When declaring friendship, both parties gain a [20]% boost to great person generation", "Enables conversion of city production to [Culture]",],
+		"requiredTech": "Education"
+	},
 	{
 		"name": "Unique Choice41",
 		"cost": 0,
