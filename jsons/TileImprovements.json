@@ -344,7 +344,7 @@
 			"[+1 Production] <after discovering [Physics]>",
 			"[+1 Gold] <after discovering [Economics]>",
 			"[+1 Gold] for each adjacent [Luxury Resource]",
-			"Only available <with [1] to [6] neighboring [Island trading dock] tiles>",
+			"Only available <with [1] to [6] neighboring [Island trading dock] tiles> <in tiles adjacent to [Coast] tiles>",
 			"Improves [Ivory] resource in this tile",
 			"Improves [Furs] resource in this tile",
 			"Improves [Deer] resource in this tile",
