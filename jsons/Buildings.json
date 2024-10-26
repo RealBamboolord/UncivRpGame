@@ -801,6 +801,8 @@
 			"Will not be displayed in Civilopedia",
 			"Instantly provides [1] [Architecture Count]",
 			"Limited to [5] per Civilization",
+			"Unavailable <when above [4] [Architecture Count]>",
+			"Never destroyed when the city is captured",
 			"Unsellable",
 			"Creates a [Manufactory] improvement on a specific tile"
 			]
