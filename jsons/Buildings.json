@@ -807,13 +807,25 @@
 			"Creates a [Manufactory] improvement on a specific tile"
 			]
 			},
+<on foreign continents>
 	{
-		"name": "Unique Choice39",
-		"cost": 0,
+		"name": "Unique Choice39", //Great West Spanish Resettlement (UA)
+		"uniqueTo": "Spain",
+		"cost": 1,
+		"isNationalWonder": true,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+			"[+35]% growth [in all cities] <in cities with less than [4] [Population]>",
+			"[+20]% growth [in all cities] <in cities with [4] [Population]>",
+			"[+50]% Production when constructing [Monument] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Granary] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Water Mill] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Walls] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Barracks] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Lighthouse] buildings [in all cities] <on foreign continents>",
+			"[+50]% Production when constructing [Library] buildings [in all cities] <on foreign continents>"
+		],
+	},
 	{
 		"name": "Unique Choice40",
 		"cost": 0,
