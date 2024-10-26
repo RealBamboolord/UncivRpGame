@@ -806,8 +806,7 @@
 			"Unsellable",
 			"Creates a [Manufactory] improvement on a specific tile"
 			]
-			},
-<on foreign continents>
+	},
 	{
 		"name": "Unique Choice39", //Great West Spanish Resettlement (UA)
 		"uniqueTo": "Spain",
