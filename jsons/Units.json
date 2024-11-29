@@ -356,21 +356,22 @@
 		"obsoleteTech": "Gunpowder",
 		"promotions": ["Men of Culture"],
 		"attackSound": "metalhit"
-	},{
-		"name": "Longbowman",
+	},
+	{
+		"name": "Baguette Marksman",
 		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "France",
 		"range": 2,
 		"movement": 2,
 		"strength": 13,
 		"rangedStrength": 18,
-		"replaces": "Crossbowman",
-		"uniqueTo": "England",
-		"cost": 120,
-		"requiredTech": "Machinery",
+		"cost": 90,
+		"requiredTech": "Guilds",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Extended Range"],
-		"attackSound": "arrow"
+		"promotions": ["Men of Culture"],
+		"attackSound": "crossbow"
 	},
 	{
 		"name": "UU 17",
