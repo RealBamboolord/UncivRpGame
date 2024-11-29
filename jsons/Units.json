@@ -364,6 +364,72 @@
 		"obsoleteTech": "Rifling",
 		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 19",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 20",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 21",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 22",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 23",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "UU 24",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 16,
+		"cost": 110,
+		"requiredTech": "Education",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "nonmetalhit"
 	}
 
 ]
