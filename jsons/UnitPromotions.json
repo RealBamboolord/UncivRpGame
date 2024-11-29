@@ -75,6 +75,15 @@
 			"Unit will heal every turn, even if it performs an action"
 		]
 	},
+	{
+		"name": "Surprise Meal", //status
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"[Target Unit] gains the [Surprise Feast] status for [3] turn(s) <upon damaging a [Military] unit>",
+
+
+		]
+	},
 
 	//Others
 	{
