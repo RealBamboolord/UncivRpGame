@@ -402,7 +402,14 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"requiredResource": "Tactical Croissant",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit",
+			unitTriggerTarget] gains the [promotion] status for [positiveAmount] turn(s)<upon damaging a [mapUnitFilter] unit>
+
+
+		],
 		"attackSound": "throw"
 	},
 	{
