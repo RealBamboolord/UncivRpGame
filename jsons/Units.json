@@ -384,7 +384,9 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Rifling",
 		"uniques": [
-"Never appears as a Barbarian unit","Can move after attacking","Founds a new city <on foreign continents> <for [Human player]>"],
+			"Never appears as a Barbarian unit","Can move after attacking",
+			"[This Unit] gains the [Surprise Meal] status for [1] turn(s) <costs [5 Gold] stats> <[3] times> <for units without [Stabbing Cooldown]>",
+		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
