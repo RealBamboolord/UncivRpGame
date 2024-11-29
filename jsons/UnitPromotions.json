@@ -27,7 +27,7 @@
 	//Unique to units
 	{
 		"name": "Pachamama's Guidance",
-		"uniques": ["Ignores Zone of Control","[+15]% Strength <when fighting in [Foreign Land] tiles>","[This Unit] gains the [Drill to Shock] status for [1] turn(s) <for units with [Drill I]> <for all movement>","[This Unit] gains the [Shock to Drill] status for [1] turn(s) <for units with [Shock I]> <for all movement>",]
+		"uniques": ["Will not be displayed in Civilopedia","Ignores Zone of Control","[+15]% Strength <when fighting in [Foreign Land] tiles>","[This Unit] gains the [Drill to Shock] status for [1] turn(s) <for units with [Drill I]> <for all movement>","[This Unit] gains the [Shock to Drill] status for [1] turn(s) <for units with [Shock I]> <for all movement>",]
 	},
 	{
 		"name": "Drill to Shock",
@@ -48,6 +48,28 @@
 	{
 		"name": "Homeland Defenders",
 		"uniques": ["[+20]% Strength <when attacking> <in [your] tiles>"]
+	},
+	//Croissants and Baguettes
+	{
+		"name": "Men of Culture", //promotion
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			
+		]
+	},
+	{
+		"name": "Lunchtime", //status
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Cannot move","[+5] HP when healing"
+		]
+	},
+	{
+		"name": "Well Fed", //status
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unit will heal every turn, even if it performs an action"
+		]
 	},
 
 	//Others
