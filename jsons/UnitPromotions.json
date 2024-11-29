@@ -54,7 +54,11 @@
 		"name": "Men of Culture", //promotion
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			
+			"[+5]% Strength <for every [2] [Tactical Croissant]> <when number of [Tactical Croissant] is less than [11]> <in [Foreign Land] tiles>",
+			"[+25]% Strength <when number of [Tactical Croissant] is more than [10]> <in [Foreign Land] tiles>",
+% Strength <for every [2] [Tactical Croissant]> <when number of [Tactical Croissant] is less than [11]> <in [Foreign Land] tiles>",
+			"[+25]% Strength <when number of [Tactical Croissant] is more than [10]> <in [Foreign Land] tiles>",
+	
 		]
 	},
 	{
