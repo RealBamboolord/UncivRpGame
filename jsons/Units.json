@@ -99,7 +99,7 @@
 		"name": "Explorer",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 16,
+		"strength": 13,
 		"cost": 110,
 		"requiredTech": "Education",
 		"obsoleteTech": "Rifling",
@@ -372,6 +372,21 @@
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Men of Culture"],
 		"attackSound": "crossbow"
+	},
+	{
+		"name": "Baguette Stabber",
+		"unitType": "Scout",,
+		"replaces": "Explorer",
+		"uniqueTo": "France",
+		"movement": 2,
+		"strength": 13,
+		"cost": 90,
+		"requiredTech": "Guilds",
+		"obsoleteTech": "Rifling",
+		"uniques": [
+"Never appears as a Barbarian unit","Can move after attacking","Founds a new city <on foreign continents> <for [Human player]>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "UU 17",
