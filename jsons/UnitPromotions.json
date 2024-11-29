@@ -80,8 +80,8 @@
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"[Target Unit] gains the [Surprise Feast] status for [3] turn(s) <upon damaging a [Military] unit>",
-
-
+			"[This Unit] gains the [Stabbing Cooldown] status for [3] turn(s) <upon damaging a [Military] unit>",
+			"[This Unit] loses the [Surprise Meal] status <upon damaging a [Military] unit>"
 		]
 	},
 
