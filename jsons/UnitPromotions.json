@@ -88,12 +88,17 @@
 		"name": "Surprise Feast", //status
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			[+20]% Strength <when attacking> <in [your] tiles>"
-
-
+			"[+60]% Strength <when defending>",
+			"Cannot move","Cannot attack"
 		]
 	},
-
+	{
+		"name": "Stabbing Cooldown", //status
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Cannot attack"
+		]
+	},
 
 	//Others
 	{
