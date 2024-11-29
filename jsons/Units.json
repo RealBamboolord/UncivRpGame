@@ -375,7 +375,7 @@
 	},
 	{
 		"name": "Baguette Stabber",
-		"unitType": "Scout",,
+		"unitType": "Scout",
 		"replaces": "Explorer",
 		"uniqueTo": "France",
 		"movement": 2,
