@@ -344,6 +344,35 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Baguetteman",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "France",
+		"movement": 2,
+		"strength": 21,
+		"cost": 90,
+		"requiredTech": "Guilds",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["Men of Culture"],
+		"attackSound": "metalhit"
+	},{
+		"name": "Longbowman",
+		"unitType": "Archery",
+		"range": 2,
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"replaces": "Crossbowman",
+		"uniqueTo": "England",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Extended Range"],
+		"attackSound": "arrow"
+	},
+	{
 		"name": "UU 17",
 		"unitType": "Scout",
 		"movement": 2,
