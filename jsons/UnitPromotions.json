@@ -84,6 +84,16 @@
 			"[This Unit] loses the [Surprise Meal] status <upon damaging a [Military] unit>"
 		]
 	},
+	{
+		"name": "Surprise Feast", //status
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			[+20]% Strength <when attacking> <in [your] tiles>"
+
+
+		]
+	},
+
 
 	//Others
 	{
