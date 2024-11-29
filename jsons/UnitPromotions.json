@@ -58,7 +58,7 @@
 			"[+25]% Strength <when number of [Tactical Croissant] is more than [10]> <in [Foreign Land] tiles>",
 			"[+5]% Strength <for every [2] [Tactical Croissant]> <when number of [Tactical Croissant] is less than [21]> <in [Friendly Land] tiles>",
 			"[+50]% Strength <when number of [Tactical Croissant] is more than [20]> <in [Friendly Land] tiles>",
-	
+			"Earn [50]% of the damage done to [non-[Men of Culture]] units as [Culture]"
 		]
 	},
 	{
