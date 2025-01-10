@@ -14,6 +14,6 @@
 		"[Gold] cost of purchasing [UU 12] units [+50]% <when above [5] [Corrupting Counter]>",
 		"[Faith] cost of purchasing [UU 12] units [+25]% <when above [5] [Corrupting Counter]>",
 
-		"This Unit takes [100] damage <upon ending a turn in a [{Enemy Land} {Secret Cavern}] tile> <for [non-[Spain]] units>"
+		"[This Unit] takes [100] damage <upon ending a turn in a [{Enemy Land} {Secret Cavern}] tile> <for [non-[Spain]] units>"
 	]
 }
