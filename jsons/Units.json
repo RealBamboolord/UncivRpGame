@@ -11,6 +11,17 @@
 			],
 	},
 	{
+		"name": "Rome Instant Promoter",
+		"unitType": "Civilian",
+		"uniqueTo": "Rome",
+		"movement": 1,
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Can move immediately once bought",
+			"[UU 12] units gain the [Corruption III] promotion <by consuming this unit>",
+			],
+	},
+	{
 		"name": "Mehal Sefari",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
