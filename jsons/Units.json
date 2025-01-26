@@ -282,10 +282,10 @@
 			"[-1] Sight", "Unbuildable", "Can only attack [City] units",
 			"Religious Unit", "Hidden when religion is disabled","Invisible to non-adjacent units <in [City-states] tiles>","Can see invisible [Civilian] units",
 			"[+200]% maintenance costs", "Limited to [1] per Civilization",
-			"This Unit gains the [Corruption I] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <with [15]% chance>",
-			"This Unit gains the [Corruption II] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corruption I]> <with [20]% chance>",
-			"This Unit gains the [Corruption III] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corruption II]> <with [25]% chance>",
-			"This Unit loses the [Attack Block] promotion <upon ending a turn in a [City-states] tile> <in tiles adjacent to [City center]> <for units with [Corruption III]> <with [50]% chance>",
+			"This Unit gains the [Corruption I] promotion <upon ending a turn in a [City-states] tile> <with [25]% chance>",
+			"This Unit gains the [Corruption II] promotion <upon ending a turn in a [City-states] tile> <for units with [Corruption I]> <with [25]% chance>",
+			"This Unit gains the [Corruption III] promotion <upon ending a turn in a [City-states] tile> <for units with [Corruption II]> <with [25]% chance>",
+			"This Unit loses the [Attack Block] promotion <upon ending a turn in a [City-states] tile> <for units with [Corruption III]> <with [50]% chance>",
 			"This Unit gains the [Attack Block] promotion <upon ending a turn in a [your] tile>","Instantly provides [1] [Corrupting Counter] <upon conquering a city>"
 			],
 		"religiousStrength": 1000
