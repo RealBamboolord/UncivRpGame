@@ -840,11 +840,13 @@
 	},
 	{
 		"name": "Unique Choice41",
-		"cost": 0,
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
-			},
+		"replaces": "Monument",
+		"uniqueTo": "Russia",
+		"cost": 25,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured","[+50]% Production when constructing [Military] units [in all cities]"]
+	},
 	{
 		"name": "Unique Choice42",
 		"cost": 0,
