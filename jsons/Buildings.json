@@ -841,7 +841,7 @@
 	{
 		"name": "Unique Choice41",
 		"replaces": "Monument",
-		"uniqueTo": "Russia",
+		"uniqueTo": "Wild tribes",
 		"cost": 25,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
