@@ -121,7 +121,7 @@
 	}
 	{
 		"name": "Corruption III",
-		"uniques": ["Will not be displayed in Civilopedia","[+150]% maintenance costs","[+9999]% Strength <vs [City-states]> <when attacking>","[This Unit] is destroyed <upon conquering a city>","Your unit now has the local city guards under their command, it will be able to take over the city very soon"]
+		"uniques": ["Will not be displayed in Civilopedia","[+150]% maintenance costs","[+9999]% Strength <vs [City-States]> <when attacking>","[This Unit] is destroyed <upon conquering a city>","Your unit now has the local city guards under their command, it will be able to take over the city very soon"]
 	}
 	{
 		"name": "Attack Block",
