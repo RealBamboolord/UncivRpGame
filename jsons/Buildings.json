@@ -9,13 +9,7 @@
 		"name": "palace renewer",
 		"uniqueTo": "Wild tribes",
 		"cost": 0,
-		"uniques": ["Will not be displayed in Civilopedia","Remove [Palace] [in all cities]"]
-	},
-	{
-		"name": "palace renewer 2",
-		"uniqueTo": "Wild tribes",
-		"cost": 0,
-		"uniques": ["Will not be displayed in Civilopedia","Gain a free [Palace] [{Coastal} {Annexed}]"]
+		"uniques": ["Will not be displayed in Civilopedia","Remove [Palace] [in this city]"]
 	},
 	{
 		"name": "Palace",
