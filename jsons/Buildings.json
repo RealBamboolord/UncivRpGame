@@ -6,10 +6,10 @@
 		"uniques": ["Will not be displayed in Civilopedia","Free [Gandalf Instant Promoter] appears"]
 	},
 	{
-		"name": "palace renewer",
+		"name": "more culture",
 		"uniqueTo": "Wild tribes",
 		"cost": 0,
-		"uniques": ["Will not be displayed in Civilopedia","Remove [Palace] [in this city]"]
+		"uniques": ["Will not be displayed in Civilopedia","Gain [30] [Culture]","Only available <in [Capital] cities>"]
 	},
 	{
 		"name": "Palace",
