@@ -51,7 +51,7 @@
     {
         "name": "Melee Water",
         "movementType": "Water"
-        "uniques": ["[This Unit] gains [1] movement <upon adopting [Exploration]>"]
+        "uniques": ["[This Unit] gains [1] movement <upon entering a [Ocean] tile>"]
     },
     {
         "name": "Ranged Water",
