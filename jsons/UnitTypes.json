@@ -2,47 +2,47 @@
     {
         "name": "Civilian",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]> <for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Sword",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]> <for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Gunpowder",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Archery",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Scout",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Mounted",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Armored",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Siege",
         "movementType": "Land"
-        "uniques": ["This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
     {
         "name": "Civilian Water",
@@ -88,7 +88,7 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles","This Unit takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]]><for [non-[Spain]]>","This Unit takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca]>"]
+        "uniques": ["Can pass through impassable tiles","[This Unit] takes [50] damage <upon ending a turn in a [Mountain] tile> <for [non-[Inca]] Civilizations> <for [non-[Spain]] Civilizations>","[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile> <for [Inca] Civilizations>"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work

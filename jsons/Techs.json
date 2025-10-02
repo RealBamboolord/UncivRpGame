@@ -48,18 +48,7 @@
 				"name": "Guilds",
 				"row": 7,
 				"prerequisites": ["Currency"],
-				"uniques": [
-					"Enables conversion of city production to [Gold]","Enables Embassies",
-					"Comment [Provides every Nation with enough copies of embassy resources to send to other nations]",
-					"Provides [10] [Ethiopian Embassy] <for [Russia] Civilizations> <hidden from users>",
-					"Provides [10] [English Embassy] <for [England] Civilizations> <hidden from users>",
-					"Provides [10] [Tiwantisuyu Embassy] <for [Inca] Civilizations> <hidden from users>",
-					"Provides [10] [Indian Embassy] <for [India] Civilizations> <hidden from users>",
-					"Provides [10] [Spanish Embassy] <for [Spain] Civilizations> <hidden from users>",
-					"Provides [10] [German Embassy] <for [Germany] Civilizations> <hidden from users>",
-					"Provides [10] [Roman Embassy] <for [Rome] Civilizations> <hidden from users>",
-					"Provides [10] [French Embassy] <for [France] Civilizations> <hidden from users>",
-				],
+				"uniques": ["Enables conversion of city production to [Gold]","Enables Embassies"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 		]

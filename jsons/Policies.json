@@ -106,7 +106,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[-25]% tile improvement construction time",
+                    "[-25]% construction time for [All] improvements",
                     "Free [Worker] appears"
                 ],
                 "row": 1,
@@ -638,7 +638,7 @@
             {
                 "name": "Diplomatic Marriage",
                 "uniques": [
-                    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+                    "Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
                 ],
                 "requires": ["Divine Rule","Knightly Order"],
                 "row": 3,
@@ -821,7 +821,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[100]% [Strategic] resource production",
                     "[+2] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
@@ -842,7 +842,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,
@@ -901,7 +901,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-15]% maintenance cost for buildings [in all cities]"
+                    "[-15]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3
@@ -1085,7 +1085,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[100]% [Strategic] resource production",
                     "[+3] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
@@ -1118,7 +1118,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Mobilization", "Fascism"],
                 "row": 3,
@@ -1201,7 +1201,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-15]% maintenance cost for buildings [in all cities]"
+                    "[-15]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3

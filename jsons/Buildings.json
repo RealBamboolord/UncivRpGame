@@ -6,10 +6,16 @@
 		"uniques": ["Will not be displayed in Civilopedia","Free [Gandalf Instant Promoter] appears"]
 	},
 	{
-		"name": "more culture",
+		"name": "palace renewer",
 		"uniqueTo": "Wild tribes",
 		"cost": 0,
-		"uniques": ["Will not be displayed in Civilopedia","Gain [30] [Culture]","Only available <in [Capital] cities>"]
+		"uniques": ["Will not be displayed in Civilopedia","Remove [Palace] [in all cities]"]
+	},
+	{
+		"name": "palace renewer 2",
+		"uniqueTo": "Wild tribes",
+		"cost": 0,
+		"uniques": ["Will not be displayed in Civilopedia","Gain a free [Palace] [{Coastal} {Annexed}]"]
 	},
 	{
 		"name": "Palace",
@@ -31,7 +37,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
 	},
 	{
 		"name": "Krepost",
@@ -40,7 +46,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -141,7 +147,7 @@
 			"[3] units cost no maintenance",
 			"[+1 Culture] from every [Walls]",
 			"[+1 Gold, +1 Culture] from each Trade Route",
-			"Only available <for [Traditional Kingdom]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Traditional Kingdom] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -152,7 +158,7 @@
 			"[+10]% [Science] [in capital]",
 			"[+10]% [Culture] [in all cities]",
 			"Gain Access to Research Funding instead of Research Agreements","Science gained from research agreements [-100]%",
-			"Only available <for [Isolationist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Isolationist] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -176,7 +182,7 @@
 			"Production to [Science] conversion in cities changed by [+25]%",
 			"[+1 Science, +1 Happiness] from every [Embassy]", //Embassy bonus
 			"[+25]% of excess happiness converted to [Science]", //Peaceful bonus happiness
-			"Only available <for [Peaceful - Scientific]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Peaceful - Scientific] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -188,7 +194,7 @@
 			"Resting point for Influence with City-States is increased by [15]",
 			"[+1 Gold, +1 Culture, +1 Happiness] from every [Embassy]", //Embassy bonus
 			"[+25]% of excess happiness converted to [Gold]", //Peaceful bonus happiness
-			"Only available <for [Peaceful - Diplomatic]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Peaceful - Diplomatic] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -201,7 +207,7 @@
 			"[+1 Gold, +1 Culture] from each Trade Route",
 			"[+2 Faith] from every [Embassy]", //Embassy bonus
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
-			"Only available <for [Religious Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Religious Expantionist] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	//Unpeacefuls
@@ -212,9 +218,9 @@
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
 			"[Great General] is earned [+20]% faster", //Also general Bonus
-			"Damage is ignored when determining unit Strength <for [Land] units>",
+			"No damage penalty for wounded units <for [Land] units>",
 			"[+15]% Strength <vs cities> <when attacking> <for [{Melee} {Land}] units>",
-			"Only available <for [Warmonger]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Warmonger] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -228,7 +234,7 @@
 			"[{Melee} {Water}] units gain the [Coastal Raider I] promotion",
 			"[Privateer] units gain the [Coastal Raider II] promotion",
 			"[Sea Bagger] units gain the [Coastal Raider III] promotion",
-			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Raider] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -401,11 +407,11 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia","Destroyed when the city is captured","Limited to [1] per Civilization",
-			"[+2 Culture] from every [Ethiopian Embassy]","Unbuildable <for [Russia]>","Gain a free [Ethiopian Embassy] [in this city]","Only available <with [Cultural Approaching Ethiopia Token]>",
+			"[+2 Culture] from every [Ethiopian Embassy]","Unbuildable <for [Russia] Civilizations>","Gain a free [Ethiopian Embassy] [in this city]","Only available <with [Cultural Approaching Ethiopia Token]>",
 			"[-50]% Strength <before the [Industrial era]> <for [Military] units> <vs [Russia] units> <when attacking> <in [Foreign Land] tiles>",
-			"Provides [1] [Cultural Approaching Inca Token] <for [Inca]>","Provides [1] [Cultural Approaching England Token] <for [England]>","Provides [1] [Cultural Approaching India Token] <for [India]>",
-			"Provides [5] [Cultural Approaching Spain Token] <for [Spain]>","Provides [1] [Cultural Approaching Rome Token] <for [Rome]>","Provides [1] [Cultural Approaching Germany Token] <for [Germany]>",
-			"Provides [1] [Cultural Approaching France Token] <for [France]>",
+			"Provides [1] [Cultural Approaching Inca Token] <for [Inca] Civilizations>","Provides [1] [Cultural Approaching England Token] <for [England] Civilizations>","Provides [1] [Cultural Approaching India Token] <for [India] Civilizations>",
+			"Provides [5] [Cultural Approaching Spain Token] <for [Spain] Civilizations>","Provides [1] [Cultural Approaching Rome Token] <for [Rome] Civilizations>","Provides [1] [Cultural Approaching Germany Token] <for [Germany] Civilizations>",
+			"Provides [1] [Cultural Approaching France Token] <for [France] Civilizations>",
 		]
 			},
 	{
@@ -416,7 +422,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [Russia]>","Triggers a global alert upon completion","Only available <with [Ethopian Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [Russia] Civilizations>","Triggers a global alert upon completion","Only available <with [Ethopian Embassy]>"]
 			},
 	{
 		"name": "English Embassy",
@@ -426,7 +432,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [England]>","Triggers a global alert upon completion","Only available <with [English Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [England] Civilizations>","Triggers a global alert upon completion","Only available <with [English Embassy]>"]
 			},
 	{
 		"name": "Tiwantisuyu Embassy",
@@ -436,7 +442,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [Inca]>","Triggers a global alert upon completion","Only available <with [Tiwantisuyu Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [Inca] Civilizations>","Triggers a global alert upon completion","Only available <with [Tiwantisuyu Embassy]>"]
 			},
 	{
 		"name": "Indian Embassy",
@@ -446,7 +452,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [India]>","Triggers a global alert upon completion","Only available <with [Indian Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [India] Civilizations>","Triggers a global alert upon completion","Only available <with [Indian Embassy]>"]
 			},
 	{
 		"name": "Spanish Embassy",
@@ -456,7 +462,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [Spain]>","Triggers a global alert upon completion","Only available <with [Spanish Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [Spain] Civilizations>","Triggers a global alert upon completion","Only available <with [Spanish Embassy]>"]
 			},
 	{
 		"name": "German Embassy",
@@ -466,7 +472,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [Germany]>","Triggers a global alert upon completion","Only available <with [German Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [Germany] Civilizations>","Triggers a global alert upon completion","Only available <with [German Embassy]>"]
 			},
 	{
 		"name": "Roman Embassy",
@@ -476,7 +482,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [Rome]>","Triggers a global alert upon completion","Only available <with [Roman Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [Rome] Civilizations>","Triggers a global alert upon completion","Only available <with [Roman Embassy]>"]
 			},
 	{
 		"name": "French Embassy",
@@ -486,7 +492,7 @@
 		"maintenance": 2,
 		"uniques": [
       "Embassy","Destroyed when the city is captured","Limited to [1] per Civilization",
-      "Cannot be purchased","Unbuildable <for [France]>","Triggers a global alert upon completion","Only available <with [French Embassy]>"]
+      "Cannot be purchased","Unbuildable <for [France] Civilizations>","Triggers a global alert upon completion","Only available <with [French Embassy]>"]
 			},
 	{
 		"name": "Unique Choice12", //rename Cultural Approaching Project Tiwantisuyu [Ethiopia]
