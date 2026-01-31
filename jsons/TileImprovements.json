@@ -237,6 +237,7 @@
 			"Can be built just outside your borders",
         	"Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built",
+			"Will not be replaced by automated units"
 		]
 	},
 
