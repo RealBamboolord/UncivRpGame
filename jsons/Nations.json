@@ -380,6 +380,11 @@
         "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
 	{
+		"name": "Valleta",
+		"outerColor": [255,117,38],
+		"innerColor": [0,0,0],
+	},
+	{
 		"name": "Inca",
 		"leaderName": "Inca Marako",
 		"adjective": ["Incan"],
