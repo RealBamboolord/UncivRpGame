@@ -343,14 +343,12 @@
 			"[-75]% maintenance costs <for [Land] units>",
 			"[+25]% Strength <for [All] units> <vs cities> <when attacking>",
 			"[+25]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
-			"[+50]% Strength for cities <when defending>",
-			"[+50]% Production when constructing [Military] units [in all cities]",
 			"Cannot build [Settler] units <Suppress warning [validationWarning]>",
 			"Free [Shaman] appears <upon founding a city>",
 			"Free [Warrior] appears <upon founding a city>",
 			"Free [Archer] appears <upon founding a city>",
 			"Excluded from map editor",
-			"Will not be displayed in Civilopedia","Barbarian"
+			"Barbarian"
 		],
 		"style": "Barbarian",
 		"cities": ["Barbaria"]
