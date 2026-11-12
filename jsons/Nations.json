@@ -385,6 +385,21 @@
 		"innerColor": [0,0,0],
 	},
 	{
+		"name": "Valletta",
+		"adjective": ["Beltin"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We don't like your face. To arms!",
+		"attacked": "You will see you have just bitten off more than you can chew.",
+		"defeated": "This ship may sink, but our spirits will linger.",
+		//"outerColor": [0, 0, 0],
+		//"innerColor": [222, 237, 59],
+		"outerColor": [255,117,38],
+		"innerColor": [0,0,0],
+		"cities": ["Valletta"]
+	},
+	{
 		"name": "Inca",
 		"leaderName": "Inca Marako",
 		"adjective": ["Incan"],
