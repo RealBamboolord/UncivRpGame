@@ -175,6 +175,7 @@
 		"cost": 110,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
+		"upgradesTo": "UU 17",
 		"uniques": ["[+2] Sight","Can see over obstacles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
 		"promotions": ["Barrage I","Rejuvenation"],
 		"attackSound": "arrow"
@@ -424,25 +425,30 @@
 	},
 	{
 		"name": "UU 17",
-		"unitType": "Scout",
+		"unitType": "Archery",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"strength": 17,
+		"rangedStrength": 20,
+		"cost": 120,
+   	    "uniques": ["[+2] Sight","Can see over obstacles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"requiredTech": "Machinery",
+		"upgradesTo": "UU 18",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
 	},
 	{
 		"name": "UU 18",
-		"unitType": "Scout",
+	    "unitType": "Ranged Gunpowder",
+		"range": 1,
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"strength": 39,
+		"rangedStrength": 33,
+		"cost": 225,
+		"uniques": ["[+2] Sight","Can see over obstacles","Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia","Cannot be purchased"],
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "UU 19",
